@@ -1,0 +1,1585 @@
+﻿Log file open, 11/12/18 15:17:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SuperTest
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.159538
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.770s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.12-13.17.17:990][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.12-13.17.17:990][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.12-13.17.18:078][  0]LogHAL: Display: Platform has ~ 8 GB [8483893248 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.12-13.17.18:078][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.12-13.17.18:078][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.12-13.17.18:078][  0]LogInit: Computer: DESKTOP-7C8C55U
+[2018.11.12-13.17.18:078][  0]LogInit: User: Tal
+[2018.11.12-13.17.18:078][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.11.12-13.17.18:078][  0]LogInit: High frequency timer resolution =2.531251 MHz
+[2018.11.12-13.17.18:078][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.11.12-13.17.18:078][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.12-13.17.18:078][  0]LogMemory: Process Physical Memory: 100.16 MB used, 100.16 MB peak
+[2018.11.12-13.17.18:078][  0]LogMemory: Process Virtual Memory: 84.22 MB used, 84.22 MB peak
+[2018.11.12-13.17.18:078][  0]LogMemory: Physical Memory: 6986.65 MB used,  1104.22 MB free, 8090.87 MB total
+[2018.11.12-13.17.18:078][  0]LogMemory: Virtual Memory: 4621.51 MB used,  1104.22 MB free, 134217728.00 MB total
+[2018.11.12-13.17.18:098][  0]LogInit: Using OS detected language (en-US).
+[2018.11.12-13.17.18:098][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.12-13.17.18:099][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.12-13.17.18:503][  0]LogStreaming: Display: Took  0.406s to InitEngineTextLocalization.
+[2018.11.12-13.17.18:503][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.12-13.17.18:523][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.12-13.17.18:523][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.12-13.17.18:729][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.12-13.17.18:729][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.12-13.17.18:800][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940M' (Feature Level 11_0)
+[2018.11.12-13.17.18:800][  0]LogD3D11RHI:       2010/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.12-13.17.18:808][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2018.11.12-13.17.18:808][  0]LogD3D11RHI:       128/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.12-13.17.18:811][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.12-13.17.18:811][  0]LogD3D11RHI:       0/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.12-13.17.18:811][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.12-13.17.18:831][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.12-13.17.18:831][  0]LogD3D11RHI:     GPU DeviceId: 0x1347 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.12-13.17.18:831][  0]LogWindows: EnumDisplayDevices:
+[2018.11.12-13.17.18:831][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2018.11.12-13.17.18:831][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.11.12-13.17.18:832][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.11.12-13.17.18:832][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.12-13.17.18:832][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940M
+[2018.11.12-13.17.18:832][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.12-13.17.18:832][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.12-13.17.18:832][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2018.11.12-13.17.18:879][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.12-13.17.18:896][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.12-13.17.18:897][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Intermediate/Shaders/WorkingDirectory/2840/).
+[2018.11.12-13.17.18:897][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tal/AppData/Local/Temp/UnrealShaderWorkingDir/56B470FE4643C089E97FC4873A274D9A/'.
+[2018.11.12-13.17.19:212][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.12-13.17.19:228][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.12-13.17.19:243][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.12-13.17.19:264][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.12-13.17.19:284][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.12-13.17.19:301][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.12-13.17.19:317][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.12-13.17.19:333][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.12-13.17.19:342][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.12-13.17.19:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-13.17.19:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-13.17.19:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-13.17.19:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-13.17.19:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-13.17.19:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-13.17.19:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-13.17.19:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-13.17.19:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-13.17.19:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-13.17.19:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-13.17.19:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-13.17.19:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-13.17.19:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-13.17.19:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-13.17.19:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-13.17.19:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-13.17.19:437][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.12-13.17.19:439][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.12-13.17.19:503][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.12-13.17.19:503][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.12-13.17.19:530][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.12-13.17.19:530][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.12-13.17.19:544][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.12-13.17.19:559][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.12-13.17.19:573][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.12-13.17.19:588][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.12-13.17.19:598][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.12-13.17.19:598][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.12-13.17.19:681][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.12-13.17.19:681][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.12-13.17.19:681][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.12-13.17.20:898][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.12-13.17.23:504][  0]LogDerivedDataCache: Loaded boot cache 2.61s 71MB C:/Users/Tal/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.12-13.17.23:505][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tal/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.12-13.17.23:505][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.12-13.17.23:505][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.12-13.17.23:505][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.12-13.17.23:505][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.12-13.17.23:520][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.12-13.17.23:532][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.12-13.17.23:532][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.12-13.17.23:532][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.12-13.17.23:552][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.12-13.17.23:553][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.12-13.17.23:577][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.12-13.17.24:523][  0]LogAssetRegistry: FAssetRegistry took 0.0276 seconds to start up
+[2018.11.12-13.17.24:927][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.12-13.17.26:073][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.12-13.17.26:078][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.12-13.17.26:078][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.12-13.17.26:078][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.12-13.17.26:078][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.12-13.17.26:099][  0]LogNetVersion: SuperTest 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3130023271)
+[2018.11.12-13.17.30:361][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 3.609645 seconds
+[2018.11.12-13.17.30:369][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.12-13.17.30:369][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.11.12-13.17.30:369][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.12-13.18.31:244][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.12-13.18.31:258][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.12-13.18.33:098][  0]SourceControl: Source control is disabled
+[2018.11.12-13.18.33:098][  0]SourceControl: Source control is disabled
+[2018.11.12-13.18.33:099][  0]SourceControl: Source control is disabled
+[2018.11.12-13.18.33:100][  0]SourceControl: Source control is disabled
+[2018.11.12-13.18.33:722][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.12-13.18.33:812][  0]LogOcInput: OculusInput pre-init called
+[2018.11.12-13.18.34:043][  0]LogEngine: Initializing Engine...
+[2018.11.12-13.18.34:043][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.12-13.18.34:171][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.12-13.18.34:171][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.12-13.18.34:171][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.12-13.18.34:171][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.12-13.18.34:401][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.12-13.18.34:416][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.12-13.18.34:436][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-13.18.34:476][  0]LogInit: FAudioDevice initialized.
+[2018.11.12-13.18.34:476][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.12-13.18.35:799][  0]LogDerivedDataCache: Saved boot cache 1.32s 71MB C:/Users/Tal/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.12-13.18.35:808][  0]LogInit: Texture streaming: Enabled
+[2018.11.12-13.18.35:828][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.12-13.18.35:844][  0]LogInit: Transaction tracking system initialized
+[2018.11.12-13.18.35:873][  0]BlueprintLog: New page: Editor Load
+[2018.11.12-13.18.36:559][  0]LocalizationService: Localization service is disabled
+[2018.11.12-13.18.37:123][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.12-13.18.37:123][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.12-13.18.37:123][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.12-13.18.37:123][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.12-13.18.37:123][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.12-13.18.37:123][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.12-13.18.37:123][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.12-13.18.37:948][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tal/Documents/Unreal Projects/SuperTest/Content/' took 0.08s
+[2018.11.12-13.18.37:948][  0]SourceControl: Source control is disabled
+[2018.11.12-13.18.37:948][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Content/Maps/testmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.12-13.18.37:948][  0]LightingResults: New page: Lighting Build
+[2018.11.12-13.18.37:952][  0]MapCheck: New page: Map Check
+[2018.11.12-13.18.37:952][  0]LightingResults: New page: Lighting Build
+[2018.11.12-13.18.38:171][  0]LogAIModule: Creating AISystem for world testmap
+[2018.11.12-13.18.38:178][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.12-13.18.38:201][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.12-13.18.38:269][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.529ms to complete.
+[2018.11.12-13.18.38:270][  0]LogFileHelpers: Loading map 'testmap' took 0.322
+[2018.11.12-13.18.38:713][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-13.18.38:722][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-13.18.38:730][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-13.18.38:741][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-13.18.38:928][  0]LogCollectionManager: Loaded 0 collections in 0.002306 seconds
+[2018.11.12-13.18.39:060][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tal/Documents/Unreal Projects/SuperTest/Saved/Collections/' took 0.01s
+[2018.11.12-13.18.39:060][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tal/Documents/Unreal Projects/SuperTest/Content/Developers/Tal/Collections/' took 0.01s
+[2018.11.12-13.18.39:060][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tal/Documents/Unreal Projects/SuperTest/Content/Collections/' took 0.01s
+[2018.11.12-13.18.39:060][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.12-13.18.39:070][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2572 classes and 603 folders.
+[2018.11.12-13.18.39:277][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.12-13.18.43:548][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.12-13.18.43:663][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.12-13.18.43:762][  0]LogSlate: Took 0.059573 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.12-13.18.43:875][  0]LogSlate: Took 0.111709 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.12-13.18.43:923][  0]LogSlate: Took 0.040967 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.12-13.18.44:132][  0]LogRenderer: Reallocating scene render targets to support 792x380 Format 10 NumSamples 1 (Frame:1).
+[2018.11.12-13.18.44:336][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.12-13.18.44:336][  0]LogLoad: (Engine Initialization) Total time: 89.59 seconds
+[2018.11.12-13.18.44:336][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.12-13.18.44:347][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.12-13.18.44:367][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.12-13.18.44:449][  0]LogSlate: Took 0.034302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.12-13.18.44:472][  1]LogAssetRegistry: Asset discovery search completed in 79.9706 seconds
+[2018.11.12-13.18.44:503][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.12-13.18.44:503][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2018.11.12-13.20.22:228][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-13.28.01:667][215]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.12-13.28.01:667][215]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.12-13.28.15:181][357]LogSlate: Took 0.000317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.12-13.28.19:487][357]LogTexture: Display: Building textures: T_PolygonCity_Texture_02_A (AutoDXT, 1024X1024)
+[2018.11.12-13.28.19:487][357]LogTexture: Display: Building textures: T_PolygonCity_Texture_02_B (AutoDXT, 1024X1024)
+[2018.11.12-13.28.19:487][357]LogTexture: Display: Building textures: T_PolygonCity_Texture_01_C (AutoDXT, 1024X1024)
+[2018.11.12-13.28.19:488][357]LogTexture: Display: Building textures: T_PolygonCity_Texture_01_B (AutoDXT, 1024X1024)
+[2018.11.12-13.28.19:488][357]LogTexture: Display: Building textures: T_PolygonCity_Texture_Roughness (AutoDXT, 1024X1024)
+[2018.11.12-13.28.19:488][357]LogTexture: Display: Building textures: T_PolygonCity_Texture_Metallic (AutoDXT, 1024X1024)
+[2018.11.12-13.28.19:488][357]LogTexture: Display: Building textures: T_PolygonCity_Texture_01_A (AutoDXT, 1024X1024)
+[2018.11.12-13.28.19:488][357]LogTexture: Display: Building textures: T_PolygonCity_BillboardAds (AutoDXT, 2048X2048)
+[2018.11.12-13.28.19:488][357]LogTexture: Display: Building textures: T_PolygonCity_Texture_Skyline (AutoDXT, 1024X1024)
+[2018.11.12-13.28.19:488][357]LogTexture: Display: Building textures: T_PolygonCity_Road_Normal (BC5, 512X512)
+[2018.11.12-13.28.19:488][357]LogTexture: Display: Building textures: T_PolygonCity_Road_01 (AutoDXT, 512X512)
+[2018.11.12-13.28.19:488][357]LogTexture: Display: Building textures: T_PolygonCity_Texture_04_B (AutoDXT, 1024X1024)
+[2018.11.12-13.28.19:488][357]LogTexture: Display: Building textures: T_PolygonCity_Texture_04_A (AutoDXT, 1024X1024)
+[2018.11.12-13.28.19:488][357]LogTexture: Display: Building textures: T_PolygonCity_Texture_03_C (AutoDXT, 1024X1024)
+[2018.11.12-13.28.19:488][357]LogTexture: Display: Building textures: T_PolygonCity_Texture_03_B (AutoDXT, 1024X1024)
+[2018.11.12-13.28.19:488][357]LogTexture: Display: Building textures: T_PolygonCity_Texture_03_A (AutoDXT, 1024X1024)
+[2018.11.12-13.28.19:517][357]LogTexture: Display: Building textures: T_PolygonCity_Texture_Normal_01 (BC5, 1024X1024)
+[2018.11.12-13.28.19:719][357]LogTexture: Display: Building textures: T_PolygonCity_Texture_02_C (AutoDXT, 1024X1024)
+[2018.11.12-13.28.19:719][357]LogTexture: Display: Building textures: T_PolygonCity_Emissive_01 (AutoDXT, 1024X1024)
+[2018.11.12-13.28.19:723][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Texture_02_B, compiling. 
+[2018.11.12-13.28.20:037][357]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.12-13.28.20:037][357]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.12-13.28.20:037][357]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.12-13.28.20:040][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Texture_02_A_Emissive, compiling. 
+[2018.11.12-13.28.20:074][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Texture_02_A, compiling. 
+[2018.11.12-13.28.20:151][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Texture_01_C, compiling. 
+[2018.11.12-13.28.20:186][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Texture_01_B, compiling. 
+[2018.11.12-13.28.20:226][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Roof_Corner_01...
+[2018.11.12-13.28.20:853][357]LogStaticMesh: Built static mesh [0.63s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_Corner_01.SM_Bld_Apartment_Roof_Corner_01
+[2018.11.12-13.28.21:022][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Roof_03...
+[2018.11.12-13.28.21:024][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_03.SM_Bld_Apartment_Roof_03
+[2018.11.12-13.28.21:027][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Roof_02...
+[2018.11.12-13.28.21:029][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_02.SM_Bld_Apartment_Roof_02
+[2018.11.12-13.28.21:031][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Roof_01...
+[2018.11.12-13.28.21:033][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_01.SM_Bld_Apartment_Roof_01
+[2018.11.12-13.28.21:042][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Door_Corner_02...
+[2018.11.12-13.28.21:057][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Door_Corner_02.SM_Bld_Apartment_Door_Corner_02
+[2018.11.12-13.28.21:069][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Door_Corner_01...
+[2018.11.12-13.28.21:086][357]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Door_Corner_01.SM_Bld_Apartment_Door_Corner_01
+[2018.11.12-13.28.21:096][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Door_02...
+[2018.11.12-13.28.21:102][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Door_02.SM_Bld_Apartment_Door_02
+[2018.11.12-13.28.21:110][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Door_01...
+[2018.11.12-13.28.21:117][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Door_01.SM_Bld_Apartment_Door_01
+[2018.11.12-13.28.21:128][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Corner_03...
+[2018.11.12-13.28.21:137][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Corner_03.SM_Bld_Apartment_Corner_03
+[2018.11.12-13.28.21:159][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Corner_02...
+[2018.11.12-13.28.21:478][357]LogStaticMesh: Built static mesh [0.32s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Corner_02.SM_Bld_Apartment_Corner_02
+[2018.11.12-13.28.21:495][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Corner_01...
+[2018.11.12-13.28.21:510][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Corner_01.SM_Bld_Apartment_Corner_01
+[2018.11.12-13.28.21:518][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_03...
+[2018.11.12-13.28.21:527][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_03.SM_Bld_Apartment_03
+[2018.11.12-13.28.21:638][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_02...
+[2018.11.12-13.28.21:674][357]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_02.SM_Bld_Apartment_02
+[2018.11.12-13.28.21:682][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_01...
+[2018.11.12-13.28.21:689][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_01.SM_Bld_Apartment_01
+[2018.11.12-13.28.21:694][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_FX_Steam, compiling. 
+[2018.11.12-13.28.21:829][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Water, compiling. 
+[2018.11.12-13.28.22:125][357]LogStaticMesh: Building static mesh SM_Bld_Roof_Access_01...
+[2018.11.12-13.28.22:132][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Roof_Access_01.SM_Bld_Roof_Access_01
+[2018.11.12-13.28.22:135][357]LogStaticMesh: Building static mesh SM_Bld_OfficeSquare_Roof_01...
+[2018.11.12-13.28.22:136][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeSquare_Roof_01.SM_Bld_OfficeSquare_Roof_01
+[2018.11.12-13.28.22:138][357]LogStaticMesh: Building static mesh SM_Bld_OfficeSquare_Base_01_Glass...
+[2018.11.12-13.28.22:140][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeSquare_Base_01_Glass.SM_Bld_OfficeSquare_Base_01_Glass
+[2018.11.12-13.28.22:167][357]LogStaticMesh: Building static mesh SM_Bld_OfficeSquare_Base_01...
+[2018.11.12-13.28.22:213][357]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeSquare_Base_01.SM_Bld_OfficeSquare_Base_01
+[2018.11.12-13.28.22:233][357]LogStaticMesh: Building static mesh SM_Bld_OfficeSquare_02...
+[2018.11.12-13.28.22:246][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeSquare_02.SM_Bld_OfficeSquare_02
+[2018.11.12-13.28.22:290][357]LogStaticMesh: Building static mesh SM_Bld_OfficeSquare_01...
+[2018.11.12-13.28.22:359][357]LogStaticMesh: Built static mesh [0.07s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeSquare_01.SM_Bld_OfficeSquare_01
+[2018.11.12-13.28.22:374][357]LogStaticMesh: Building static mesh SM_Env_Sidewalk_Corner_01...
+[2018.11.12-13.28.22:376][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Corner_01.SM_Env_Sidewalk_Corner_01
+[2018.11.12-13.28.22:381][357]LogStaticMesh: Building static mesh SM_Bld_OfficeRound_Roof_01...
+[2018.11.12-13.28.22:387][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeRound_Roof_01.SM_Bld_OfficeRound_Roof_01
+[2018.11.12-13.28.22:390][357]LogStaticMesh: Building static mesh SM_Bld_OfficeRound_Base_01_Glass...
+[2018.11.12-13.28.22:392][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeRound_Base_01_Glass.SM_Bld_OfficeRound_Base_01_Glass
+[2018.11.12-13.28.22:413][357]LogStaticMesh: Building static mesh SM_Bld_OfficeRound_Base_01...
+[2018.11.12-13.28.22:448][357]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeRound_Base_01.SM_Bld_OfficeRound_Base_01
+[2018.11.12-13.28.22:466][357]LogStaticMesh: Building static mesh SM_Bld_OfficeRound_02...
+[2018.11.12-13.28.22:480][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeRound_02.SM_Bld_OfficeRound_02
+[2018.11.12-13.28.22:484][357]LogStaticMesh: Building static mesh SM_Env_Road_YellowLines_01...
+[2018.11.12-13.28.22:485][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Road_YellowLines_01.SM_Env_Road_YellowLines_01
+[2018.11.12-13.28.22:503][357]LogStaticMesh: Building static mesh SM_Bld_OfficeOld_Small_Roof_01...
+[2018.11.12-13.28.22:540][357]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Small_Roof_01.SM_Bld_OfficeOld_Small_Roof_01
+[2018.11.12-13.28.22:557][357]LogStaticMesh: Building static mesh SM_Bld_OfficeOld_Small_Floor_01...
+[2018.11.12-13.28.22:573][357]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Small_Floor_01.SM_Bld_OfficeOld_Small_Floor_01
+[2018.11.12-13.28.22:625][357]LogStaticMesh: Building static mesh SM_Bld_OfficeOld_Small_Base_01...
+[2018.11.12-13.28.22:750][357]LogStaticMesh: Built static mesh [0.12s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Small_Base_01.SM_Bld_OfficeOld_Small_Base_01
+[2018.11.12-13.28.22:921][357]LogStaticMesh: Building static mesh SM_Bld_OfficeOld_Small_01...
+[2018.11.12-13.28.23:432][357]LogStaticMesh: Built static mesh [0.51s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Small_01.SM_Bld_OfficeOld_Small_01
+[2018.11.12-13.28.23:492][357]LogStaticMesh: Building static mesh SM_Bld_OfficeOctagon_Floor_01...
+[2018.11.12-13.28.23:517][357]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOctagon_Floor_01.SM_Bld_OfficeOctagon_Floor_01
+[2018.11.12-13.28.23:525][357]LogStaticMesh: Building static mesh SM_Bld_OfficeOctagon_Base_01_Glass...
+[2018.11.12-13.28.23:530][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOctagon_Base_01_Glass.SM_Bld_OfficeOctagon_Base_01_Glass
+[2018.11.12-13.28.23:544][357]LogStaticMesh: Building static mesh SM_Bld_FireEscape_01...
+[2018.11.12-13.28.23:553][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_FireEscape_01.SM_Bld_FireEscape_01
+[2018.11.12-13.28.23:556][357]LogStaticMesh: Building static mesh SM_Bld_Cover_02...
+[2018.11.12-13.28.23:558][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Cover_02.SM_Bld_Cover_02
+[2018.11.12-13.28.23:561][357]LogStaticMesh: Building static mesh SM_Bld_Cover_01...
+[2018.11.12-13.28.23:563][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Cover_01.SM_Bld_Cover_01
+[2018.11.12-13.28.23:632][357]LogStaticMesh: Building static mesh SM_Bld_OfficeOctagon_Base_01...
+[2018.11.12-13.28.23:843][357]LogStaticMesh: Built static mesh [0.21s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOctagon_Base_01.SM_Bld_OfficeOctagon_Base_01
+[2018.11.12-13.28.23:876][357]LogStaticMesh: Building static mesh SM_Bld_FireEscape_03...
+[2018.11.12-13.28.23:890][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_FireEscape_03.SM_Bld_FireEscape_03
+[2018.11.12-13.28.23:903][357]LogStaticMesh: Building static mesh SM_Bld_FireEscape_02...
+[2018.11.12-13.28.23:919][357]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_FireEscape_02.SM_Bld_FireEscape_02
+[2018.11.12-13.28.24:085][357]LogStaticMesh: Building static mesh SM_Bld_CityHall_01...
+[2018.11.12-13.28.24:618][357]LogStaticMesh: Built static mesh [0.53s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_CityHall_01.SM_Bld_CityHall_01
+[2018.11.12-13.28.24:667][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Stairs_Planter_02...
+[2018.11.12-13.28.24:668][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stairs_Planter_02.SM_Bld_Apartment_Stairs_Planter_02
+[2018.11.12-13.28.24:671][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Stairs_Planter_01...
+[2018.11.12-13.28.24:672][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stairs_Planter_01.SM_Bld_Apartment_Stairs_Planter_01
+[2018.11.12-13.28.24:700][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Stairs_Corner_01...
+[2018.11.12-13.28.24:757][357]LogStaticMesh: Built static mesh [0.06s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stairs_Corner_01.SM_Bld_Apartment_Stairs_Corner_01
+[2018.11.12-13.28.24:772][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Stairs_03...
+[2018.11.12-13.28.24:781][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stairs_03.SM_Bld_Apartment_Stairs_03
+[2018.11.12-13.28.24:795][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Stairs_02...
+[2018.11.12-13.28.24:814][357]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stairs_02.SM_Bld_Apartment_Stairs_02
+[2018.11.12-13.28.24:846][357]LogSkeletalMesh: Building Skeletal Mesh SK_Veh_Car_Sedan_01...
+[2018.11.12-13.28.24:974][357]LogSkeletalMesh: Built Skeletal Mesh [0.13s] /Game/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Sedan_01.SK_Veh_Car_Sedan_01
+[2018.11.12-13.28.25:032][357]LogSkeletalMesh: Building Skeletal Mesh SK_Veh_Car_Police_01...
+[2018.11.12-13.28.25:045][357]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Police_01.SK_Veh_Car_Police_01
+[2018.11.12-13.28.25:061][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Stairs_01...
+[2018.11.12-13.28.25:084][357]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stairs_01.SM_Bld_Apartment_Stairs_01
+[2018.11.12-13.28.25:102][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Stack_03...
+[2018.11.12-13.28.25:129][357]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stack_03.SM_Bld_Apartment_Stack_03
+[2018.11.12-13.28.25:164][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Stack_02...
+[2018.11.12-13.28.25:243][357]LogStaticMesh: Built static mesh [0.08s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stack_02.SM_Bld_Apartment_Stack_02
+[2018.11.12-13.28.25:268][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Stack_01...
+[2018.11.12-13.28.25:292][357]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stack_01.SM_Bld_Apartment_Stack_01
+[2018.11.12-13.28.25:299][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Roof_Corner_03...
+[2018.11.12-13.28.25:303][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_Corner_03.SM_Bld_Apartment_Roof_Corner_03
+[2018.11.12-13.28.25:307][357]LogStaticMesh: Building static mesh SM_Bld_Apartment_Roof_Corner_02...
+[2018.11.12-13.28.25:310][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_Corner_02.SM_Bld_Apartment_Roof_Corner_02
+[2018.11.12-13.28.25:332][357]LogStaticMesh: Building static mesh SM_Bld_Station_03...
+[2018.11.12-13.28.25:368][357]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Station_03.SM_Bld_Station_03
+[2018.11.12-13.28.25:389][357]LogStaticMesh: Building static mesh SM_Bld_Station_02...
+[2018.11.12-13.28.25:416][357]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Station_02.SM_Bld_Station_02
+[2018.11.12-13.28.25:464][357]LogStaticMesh: Building static mesh SM_Bld_Station_01...
+[2018.11.12-13.28.25:561][357]LogStaticMesh: Built static mesh [0.10s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Station_01.SM_Bld_Station_01
+[2018.11.12-13.28.25:582][357]LogStaticMesh: Building static mesh SM_Bld_Shop_Cover_05...
+[2018.11.12-13.28.25:590][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Cover_05.SM_Bld_Shop_Cover_05
+[2018.11.12-13.28.25:595][357]LogStaticMesh: Building static mesh SM_Bld_Shop_Cover_04...
+[2018.11.12-13.28.25:599][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Cover_04.SM_Bld_Shop_Cover_04
+[2018.11.12-13.28.25:601][357]LogStaticMesh: Building static mesh SM_Bld_Shop_Corner_02_Glass...
+[2018.11.12-13.28.25:602][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Corner_02_Glass.SM_Bld_Shop_Corner_02_Glass
+[2018.11.12-13.28.25:605][357]LogStaticMesh: Building static mesh SM_Bld_Shop_06...
+[2018.11.12-13.28.25:611][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_06.SM_Bld_Shop_06
+[2018.11.12-13.28.25:613][357]LogStaticMesh: Building static mesh SM_Bld_Shop_05_Glass...
+[2018.11.12-13.28.25:614][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_05_Glass.SM_Bld_Shop_05_Glass
+[2018.11.12-13.28.25:616][357]LogStaticMesh: Building static mesh SM_Bld_Shop_05...
+[2018.11.12-13.28.25:619][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_05.SM_Bld_Shop_05
+[2018.11.12-13.28.25:620][357]LogStaticMesh: Building static mesh SM_Bld_Shop_04_Glass...
+[2018.11.12-13.28.25:621][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_04_Glass.SM_Bld_Shop_04_Glass
+[2018.11.12-13.28.25:626][357]LogStaticMesh: Building static mesh SM_Bld_Shop_04...
+[2018.11.12-13.28.25:635][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_04.SM_Bld_Shop_04
+[2018.11.12-13.28.25:638][357]LogStaticMesh: Building static mesh SM_Bld_Shop_03_Glass...
+[2018.11.12-13.28.25:639][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_03_Glass.SM_Bld_Shop_03_Glass
+[2018.11.12-13.28.25:646][357]LogStaticMesh: Building static mesh SM_Bld_Shop_03...
+[2018.11.12-13.28.25:659][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_03.SM_Bld_Shop_03
+[2018.11.12-13.28.25:663][357]LogStaticMesh: Building static mesh SM_Bld_Shop_02_Glass...
+[2018.11.12-13.28.25:664][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_02_Glass.SM_Bld_Shop_02_Glass
+[2018.11.12-13.28.25:665][357]LogStaticMesh: Building static mesh SM_Prop_Billboard_Sign_07...
+[2018.11.12-13.28.25:666][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_07.SM_Prop_Billboard_Sign_07
+[2018.11.12-13.28.25:667][357]LogStaticMesh: Building static mesh SM_Prop_Billboard_Sign_06...
+[2018.11.12-13.28.25:668][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_06.SM_Prop_Billboard_Sign_06
+[2018.11.12-13.28.25:669][357]LogStaticMesh: Building static mesh SM_Prop_Billboard_Sign_05...
+[2018.11.12-13.28.25:669][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_05.SM_Prop_Billboard_Sign_05
+[2018.11.12-13.28.25:670][357]LogStaticMesh: Building static mesh SM_Prop_Billboard_Sign_04...
+[2018.11.12-13.28.25:671][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_04.SM_Prop_Billboard_Sign_04
+[2018.11.12-13.28.25:672][357]LogStaticMesh: Building static mesh SM_Prop_Billboard_Sign_03...
+[2018.11.12-13.28.25:673][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_03.SM_Prop_Billboard_Sign_03
+[2018.11.12-13.28.25:674][357]LogStaticMesh: Building static mesh SM_Prop_Billboard_Sign_02...
+[2018.11.12-13.28.25:675][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_02.SM_Prop_Billboard_Sign_02
+[2018.11.12-13.28.25:678][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Billboard, compiling. 
+[2018.11.12-13.28.25:707][357]LogStaticMesh: Building static mesh SM_Prop_Billboard_Sign_01...
+[2018.11.12-13.28.25:707][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_01.SM_Prop_Billboard_Sign_01
+[2018.11.12-13.28.25:715][357]LogStaticMesh: Building static mesh SM_Prop_Billboard_Roof_01...
+[2018.11.12-13.28.25:726][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Billboard_Roof_01.SM_Prop_Billboard_Roof_01
+[2018.11.12-13.28.25:730][357]LogStaticMesh: Building static mesh SM_Prop_Billboard_Pole_01...
+[2018.11.12-13.28.25:733][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Billboard_Pole_01.SM_Prop_Billboard_Pole_01
+[2018.11.12-13.28.25:739][357]LogStaticMesh: Building static mesh SM_Prop_Billboard_01...
+[2018.11.12-13.28.25:746][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Billboard_01.SM_Prop_Billboard_01
+[2018.11.12-13.28.25:751][357]LogStaticMesh: Building static mesh SM_Prop_Barrier_01...
+[2018.11.12-13.28.25:755][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Barrier_01.SM_Prop_Barrier_01
+[2018.11.12-13.28.25:761][357]LogStaticMesh: Building static mesh SM_Prop_ATM_01...
+[2018.11.12-13.28.25:767][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_ATM_01.SM_Prop_ATM_01
+[2018.11.12-13.28.25:773][357]LogStaticMesh: Building static mesh SM_Prop_Aircon_01...
+[2018.11.12-13.28.25:777][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Aircon_01.SM_Prop_Aircon_01
+[2018.11.12-13.28.25:779][357]LogStaticMesh: Building static mesh SM_Env_WaterEdge_Straight_03...
+[2018.11.12-13.28.25:780][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Straight_03.SM_Env_WaterEdge_Straight_03
+[2018.11.12-13.28.25:781][357]LogStaticMesh: Building static mesh SM_Env_WaterEdge_Straight_02...
+[2018.11.12-13.28.25:782][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Straight_02.SM_Env_WaterEdge_Straight_02
+[2018.11.12-13.28.25:786][357]LogStaticMesh: Building static mesh SM_Env_WaterEdge_Straight_01...
+[2018.11.12-13.28.25:790][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Straight_01.SM_Env_WaterEdge_Straight_01
+[2018.11.12-13.28.25:793][357]LogStaticMesh: Building static mesh SM_Env_WaterEdge_Rock_01...
+[2018.11.12-13.28.25:795][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Rock_01.SM_Env_WaterEdge_Rock_01
+[2018.11.12-13.28.25:798][357]LogStaticMesh: Building static mesh SM_Env_WaterEdge_Pipe_01...
+[2018.11.12-13.28.25:802][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Pipe_01.SM_Env_WaterEdge_Pipe_01
+[2018.11.12-13.28.25:804][357]LogStaticMesh: Building static mesh SM_Env_WaterEdge_Corner_02...
+[2018.11.12-13.28.25:805][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Corner_02.SM_Env_WaterEdge_Corner_02
+[2018.11.12-13.28.25:807][357]LogStaticMesh: Building static mesh SM_Env_WaterEdge_Corner_01...
+[2018.11.12-13.28.25:814][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Corner_01.SM_Env_WaterEdge_Corner_01
+[2018.11.12-13.28.26:138][357]LogStaticMesh: Building static mesh SM_Env_Unreal_Water...
+[2018.11.12-13.28.26:573][357]LogStaticMesh: Built static mesh [0.44s] /Game/PolygonCity/Meshes/Environments/SM_Env_Unreal_Water.SM_Env_Unreal_Water
+[2018.11.12-13.28.26:646][357]LogStaticMesh: Building static mesh SM_Env_Tree_03...
+[2018.11.12-13.28.26:650][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Tree_03.SM_Env_Tree_03
+[2018.11.12-13.28.26:659][357]LogStaticMesh: Building static mesh SM_Env_Tree_02...
+[2018.11.12-13.28.26:668][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Environments/SM_Env_Tree_02.SM_Env_Tree_02
+[2018.11.12-13.28.26:677][357]LogStaticMesh: Building static mesh SM_Env_Tree_01...
+[2018.11.12-13.28.26:686][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Environments/SM_Env_Tree_01.SM_Env_Tree_01
+[2018.11.12-13.28.26:696][357]LogStaticMesh: Building static mesh SM_Env_SubwayEntrance_02...
+[2018.11.12-13.28.26:707][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Environments/SM_Env_SubwayEntrance_02.SM_Env_SubwayEntrance_02
+[2018.11.12-13.28.26:710][357]LogStaticMesh: Building static mesh SM_Env_SubwayEntrance_01_Glass...
+[2018.11.12-13.28.26:711][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_SubwayEntrance_01_Glass.SM_Env_SubwayEntrance_01_Glass
+[2018.11.12-13.28.26:719][357]LogStaticMesh: Building static mesh SM_Env_SubwayEntrance_01...
+[2018.11.12-13.28.26:729][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Environments/SM_Env_SubwayEntrance_01.SM_Env_SubwayEntrance_01
+[2018.11.12-13.28.26:732][357]LogStaticMesh: Building static mesh SM_Env_Street_Divider_02...
+[2018.11.12-13.28.26:733][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Street_Divider_02.SM_Env_Street_Divider_02
+[2018.11.12-13.28.26:734][357]LogStaticMesh: Building static mesh SM_Env_Street_Divider_01...
+[2018.11.12-13.28.26:735][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Street_Divider_01.SM_Env_Street_Divider_01
+[2018.11.12-13.28.26:737][357]LogStaticMesh: Building static mesh SM_Env_Skyline_04...
+[2018.11.12-13.28.26:739][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Skyline_04.SM_Env_Skyline_04
+[2018.11.12-13.28.26:741][357]LogStaticMesh: Building static mesh SM_Env_Skyline_03...
+[2018.11.12-13.28.26:743][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Skyline_03.SM_Env_Skyline_03
+[2018.11.12-13.28.26:745][357]LogStaticMesh: Building static mesh SM_Env_Skyline_02...
+[2018.11.12-13.28.26:746][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Skyline_02.SM_Env_Skyline_02
+[2018.11.12-13.28.26:750][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Skyline, compiling. 
+[2018.11.12-13.28.26:812][357]LogStaticMesh: Building static mesh SM_Env_Skyline_01...
+[2018.11.12-13.28.26:813][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Skyline_01.SM_Env_Skyline_01
+[2018.11.12-13.28.26:815][357]LogStaticMesh: Building static mesh SM_Env_Sidewalk_Straight_01...
+[2018.11.12-13.28.26:816][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Straight_01.SM_Env_Sidewalk_Straight_01
+[2018.11.12-13.28.26:821][357]LogStaticMesh: Building static mesh SM_Env_Sidewalk_Panel_02...
+[2018.11.12-13.28.26:830][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Panel_02.SM_Env_Sidewalk_Panel_02
+[2018.11.12-13.28.26:837][357]LogStaticMesh: Building static mesh SM_Env_Sidewalk_Panel_01...
+[2018.11.12-13.28.26:844][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Panel_01.SM_Env_Sidewalk_Panel_01
+[2018.11.12-13.28.26:847][357]LogStaticMesh: Building static mesh SM_Env_Sidewalk_Merger_01...
+[2018.11.12-13.28.26:849][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Merger_01.SM_Env_Sidewalk_Merger_01
+[2018.11.12-13.28.26:855][357]LogStaticMesh: Building static mesh SM_Env_Sidewalk_Gutter_01...
+[2018.11.12-13.28.26:862][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Gutter_01.SM_Env_Sidewalk_Gutter_01
+[2018.11.12-13.28.26:874][357]LogStaticMesh: Building static mesh SM_Env_Sidewalk_Grate_02...
+[2018.11.12-13.28.26:878][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Grate_02.SM_Env_Sidewalk_Grate_02
+[2018.11.12-13.28.26:883][357]LogStaticMesh: Building static mesh SM_Env_Sidewalk_Grate_01...
+[2018.11.12-13.28.26:888][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Grate_01.SM_Env_Sidewalk_Grate_01
+[2018.11.12-13.28.26:892][357]LogStaticMesh: Building static mesh SM_Env_Sidewalk_Dip_Corner_01...
+[2018.11.12-13.28.26:895][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Dip_Corner_01.SM_Env_Sidewalk_Dip_Corner_01
+[2018.11.12-13.28.26:897][357]LogStaticMesh: Building static mesh SM_Env_Sidewalk_Dip_01...
+[2018.11.12-13.28.26:900][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Dip_01.SM_Env_Sidewalk_Dip_01
+[2018.11.12-13.28.26:902][357]LogStaticMesh: Building static mesh SM_Env_Sidewalk_Corner_02...
+[2018.11.12-13.28.26:903][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Corner_02.SM_Env_Sidewalk_Corner_02
+[2018.11.12-13.28.26:923][357]LogStaticMesh: Building static mesh SM_Env_Sidewalk_Construction_01...
+[2018.11.12-13.28.26:959][357]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Construction_01.SM_Env_Sidewalk_Construction_01
+[2018.11.12-13.28.26:964][357]LogStaticMesh: Building static mesh SM_Env_Sidewalk_01...
+[2018.11.12-13.28.26:965][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_01.SM_Env_Sidewalk_01
+[2018.11.12-13.28.26:967][357]LogStaticMesh: Building static mesh SM_Env_Road_YellowLines_02...
+[2018.11.12-13.28.26:968][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Road_YellowLines_02.SM_Env_Road_YellowLines_02
+[2018.11.12-13.28.26:969][357]LogStaticMesh: Building static mesh SM_Env_Road_ParkingLines_01...
+[2018.11.12-13.28.26:970][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Road_ParkingLines_01.SM_Env_Road_ParkingLines_01
+[2018.11.12-13.28.26:971][357]LogStaticMesh: Building static mesh SM_Env_Road_Lines_02...
+[2018.11.12-13.28.26:971][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Road_Lines_02.SM_Env_Road_Lines_02
+[2018.11.12-13.28.26:972][357]LogStaticMesh: Building static mesh SM_Env_Road_Lines_01...
+[2018.11.12-13.28.26:973][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Road_Lines_01.SM_Env_Road_Lines_01
+[2018.11.12-13.28.26:975][357]LogStaticMesh: Building static mesh SM_Env_Road_Crossing_01...
+[2018.11.12-13.28.26:976][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Road_Crossing_01.SM_Env_Road_Crossing_01
+[2018.11.12-13.28.26:977][357]LogStaticMesh: Building static mesh SM_Env_Road_Bare_01...
+[2018.11.12-13.28.26:981][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Road_Bare_01.SM_Env_Road_Bare_01
+[2018.11.12-13.28.26:983][357]LogStaticMesh: Building static mesh SM_Env_Road_Arrow_02...
+[2018.11.12-13.28.26:984][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Road_Arrow_02.SM_Env_Road_Arrow_02
+[2018.11.12-13.28.26:986][357]LogStaticMesh: Building static mesh SM_Env_Road_Arrow_01...
+[2018.11.12-13.28.26:987][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Road_Arrow_01.SM_Env_Road_Arrow_01
+[2018.11.12-13.28.26:989][357]LogStaticMesh: Building static mesh SM_Env_Road_03...
+[2018.11.12-13.28.26:990][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Road_03.SM_Env_Road_03
+[2018.11.12-13.28.26:990][357]LogStaticMesh: Building static mesh SM_Env_Road_02...
+[2018.11.12-13.28.26:991][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Road_02.SM_Env_Road_02
+[2018.11.12-13.28.26:995][357]LogStaticMesh: Building static mesh SM_Env_GrassPath_T_01...
+[2018.11.12-13.28.27:000][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Environments/SM_Env_GrassPath_T_01.SM_Env_GrassPath_T_01
+[2018.11.12-13.28.27:005][357]LogStaticMesh: Building static mesh SM_Env_GrassPath_Straight_01...
+[2018.11.12-13.28.27:009][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_GrassPath_Straight_01.SM_Env_GrassPath_Straight_01
+[2018.11.12-13.28.27:016][357]LogStaticMesh: Building static mesh SM_Env_GrassPath_Corner_01...
+[2018.11.12-13.28.27:023][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Environments/SM_Env_GrassPath_Corner_01.SM_Env_GrassPath_Corner_01
+[2018.11.12-13.28.27:026][357]LogStaticMesh: Building static mesh SM_Env_Grass_01...
+[2018.11.12-13.28.27:029][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Grass_01.SM_Env_Grass_01
+[2018.11.12-13.28.27:032][357]LogStaticMesh: Building static mesh SM_Env_Flower_01...
+[2018.11.12-13.28.27:033][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Flower_01.SM_Env_Flower_01
+[2018.11.12-13.28.27:038][357]LogStaticMesh: Building static mesh SM_Env_Fence_End_01...
+[2018.11.12-13.28.27:042][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Fence_End_01.SM_Env_Fence_End_01
+[2018.11.12-13.28.27:052][357]LogStaticMesh: Building static mesh SM_Env_Fence_01...
+[2018.11.12-13.28.27:064][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Environments/SM_Env_Fence_01.SM_Env_Fence_01
+[2018.11.12-13.28.27:069][357]LogStaticMesh: Building static mesh SM_Env_Bridge_Wall_01...
+[2018.11.12-13.28.27:070][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Bridge_Wall_01.SM_Env_Bridge_Wall_01
+[2018.11.12-13.28.27:071][357]LogStaticMesh: Building static mesh SM_Env_Bridge_Underside_01...
+[2018.11.12-13.28.27:072][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Bridge_Underside_01.SM_Env_Bridge_Underside_01
+[2018.11.12-13.28.27:075][357]LogStaticMesh: Building static mesh SM_Env_Bridge_Support_01...
+[2018.11.12-13.28.27:078][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Bridge_Support_01.SM_Env_Bridge_Support_01
+[2018.11.12-13.28.27:082][357]LogStaticMesh: Building static mesh SM_Env_Bridge_Pillar_01...
+[2018.11.12-13.28.27:086][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Bridge_Pillar_01.SM_Env_Bridge_Pillar_01
+[2018.11.12-13.28.27:092][357]LogStaticMesh: Building static mesh SM_Env_Bridge_Edge_01...
+[2018.11.12-13.28.27:097][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Environments/SM_Env_Bridge_Edge_01.SM_Env_Bridge_Edge_01
+[2018.11.12-13.28.27:100][357]LogStaticMesh: Building static mesh SM_Prop_LightPole_CrossButton_01...
+[2018.11.12-13.28.27:103][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_LightPole_CrossButton_01.SM_Prop_LightPole_CrossButton_01
+[2018.11.12-13.28.27:104][357]LogStaticMesh: Building static mesh SM_Prop_LightPole_Box_01...
+[2018.11.12-13.28.27:105][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_LightPole_Box_01.SM_Prop_LightPole_Box_01
+[2018.11.12-13.28.27:113][357]LogStaticMesh: Building static mesh SM_Prop_LightPole_Base_02...
+[2018.11.12-13.28.27:124][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_LightPole_Base_02.SM_Prop_LightPole_Base_02
+[2018.11.12-13.28.27:289][357]LogStaticMesh: Building static mesh SM_Prop_LightPole_Base_01...
+[2018.11.12-13.28.27:294][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_LightPole_Base_01.SM_Prop_LightPole_Base_01
+[2018.11.12-13.28.27:303][357]LogStaticMesh: Building static mesh SM_Prop_LightPole_Arm_01...
+[2018.11.12-13.28.27:314][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_LightPole_Arm_01.SM_Prop_LightPole_Arm_01
+[2018.11.12-13.28.27:321][357]LogStaticMesh: Building static mesh SM_Prop_LargeSign_Taco_01...
+[2018.11.12-13.28.27:331][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Taco_01.SM_Prop_LargeSign_Taco_01
+[2018.11.12-13.28.27:341][357]LogStaticMesh: Building static mesh SM_Prop_LargeSign_Popcorn_01...
+[2018.11.12-13.28.27:356][357]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Popcorn_01.SM_Prop_LargeSign_Popcorn_01
+[2018.11.12-13.28.27:363][357]LogStaticMesh: Building static mesh SM_Prop_LargeSign_Pizza_01...
+[2018.11.12-13.28.27:367][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Pizza_01.SM_Prop_LargeSign_Pizza_01
+[2018.11.12-13.28.27:371][357]LogStaticMesh: Building static mesh SM_Prop_LargeSign_Noodles_01...
+[2018.11.12-13.28.27:376][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Noodles_01.SM_Prop_LargeSign_Noodles_01
+[2018.11.12-13.28.27:382][357]LogStaticMesh: Building static mesh SM_Prop_LargeSign_Milkshake_01...
+[2018.11.12-13.28.27:391][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Milkshake_01.SM_Prop_LargeSign_Milkshake_01
+[2018.11.12-13.28.27:401][357]LogStaticMesh: Building static mesh SM_Prop_LargeSign_Lollypop_01...
+[2018.11.12-13.28.27:411][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Lollypop_01.SM_Prop_LargeSign_Lollypop_01
+[2018.11.12-13.28.27:419][357]LogStaticMesh: Building static mesh SM_Prop_LargeSign_Hotdog_01...
+[2018.11.12-13.28.27:426][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Hotdog_01.SM_Prop_LargeSign_Hotdog_01
+[2018.11.12-13.28.27:434][357]LogStaticMesh: Building static mesh SM_Prop_LargeSign_Guitar_01...
+[2018.11.12-13.28.27:443][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Guitar_01.SM_Prop_LargeSign_Guitar_01
+[2018.11.12-13.28.27:449][357]LogStaticMesh: Building static mesh SM_Prop_LargeSign_Coffee_01...
+[2018.11.12-13.28.27:455][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Coffee_01.SM_Prop_LargeSign_Coffee_01
+[2018.11.12-13.28.27:463][357]LogStaticMesh: Building static mesh SM_Prop_LargeSign_Burger_01...
+[2018.11.12-13.28.27:473][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Burger_01.SM_Prop_LargeSign_Burger_01
+[2018.11.12-13.28.27:478][357]LogStaticMesh: Building static mesh SM_Prop_LargeSign_BowlingPin_01...
+[2018.11.12-13.28.27:481][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_LargeSign_BowlingPin_01.SM_Prop_LargeSign_BowlingPin_01
+[2018.11.12-13.28.27:483][357]LogStaticMesh: Building static mesh SM_Prop_LargeSign_BowlingBall_01...
+[2018.11.12-13.28.27:485][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_LargeSign_BowlingBall_01.SM_Prop_LargeSign_BowlingBall_01
+[2018.11.12-13.28.27:490][357]LogStaticMesh: Building static mesh SM_Prop_LargeSign_Bottle_01...
+[2018.11.12-13.28.27:494][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Bottle_01.SM_Prop_LargeSign_Bottle_01
+[2018.11.12-13.28.27:500][357]LogStaticMesh: Building static mesh SM_Prop_Hydrant_01...
+[2018.11.12-13.28.27:508][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Hydrant_01.SM_Prop_Hydrant_01
+[2018.11.12-13.28.27:523][357]LogStaticMesh: Building static mesh SM_Prop_HotdogStand_01...
+[2018.11.12-13.28.27:548][357]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Props/SM_Prop_HotdogStand_01.SM_Prop_HotdogStand_01
+[2018.11.12-13.28.27:557][357]LogStaticMesh: Building static mesh SM_Prop_Couch_01...
+[2018.11.12-13.28.27:563][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Couch_01.SM_Prop_Couch_01
+[2018.11.12-13.28.27:568][357]LogStaticMesh: Building static mesh SM_Prop_Cone_01...
+[2018.11.12-13.28.27:572][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Cone_01.SM_Prop_Cone_01
+[2018.11.12-13.28.27:574][357]LogStaticMesh: Building static mesh SM_Prop_CarboardBox_04...
+[2018.11.12-13.28.27:576][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_CarboardBox_04.SM_Prop_CarboardBox_04
+[2018.11.12-13.28.27:578][357]LogStaticMesh: Building static mesh SM_Prop_CarboardBox_03...
+[2018.11.12-13.28.27:580][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_CarboardBox_03.SM_Prop_CarboardBox_03
+[2018.11.12-13.28.27:581][357]LogStaticMesh: Building static mesh SM_Prop_CarboardBox_01...
+[2018.11.12-13.28.27:582][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_CarboardBox_01.SM_Prop_CarboardBox_01
+[2018.11.12-13.28.27:589][357]LogStaticMesh: Building static mesh SM_Prop_BusStop_01...
+[2018.11.12-13.28.27:600][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_BusStop_01.SM_Prop_BusStop_01
+[2018.11.12-13.28.27:606][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Texture_Road_01, compiling. 
+[2018.11.12-13.28.27:687][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Texture_04_B, compiling. 
+[2018.11.12-13.28.27:741][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Texture_04_A_Emissive, compiling. 
+[2018.11.12-13.28.27:799][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Texture_04_A, compiling. 
+[2018.11.12-13.28.27:860][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Texture_03_C, compiling. 
+[2018.11.12-13.28.27:910][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Texture_03_B, compiling. 
+[2018.11.12-13.28.27:963][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Texture_03_A, compiling. 
+[2018.11.12-13.28.28:026][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Texture_02_C, compiling. 
+[2018.11.12-13.28.28:102][357]LogSkeletalMesh: Building Skeletal Mesh SK_Veh_Car_Muscle_01...
+[2018.11.12-13.28.28:115][357]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Muscle_01.SK_Veh_Car_Muscle_01
+[2018.11.12-13.28.28:150][357]LogSkeletalMesh: Building Skeletal Mesh SK_Veh_Car_Medium_01...
+[2018.11.12-13.28.28:165][357]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Medium_01.SK_Veh_Car_Medium_01
+[2018.11.12-13.28.28:218][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Glass_Car_Windows, compiling. 
+[2018.11.12-13.28.28:299][357]LogSkeletalMesh: Building Skeletal Mesh SK_Veh_Car_Ambo_01...
+[2018.11.12-13.28.28:320][357]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Ambo_01.SK_Veh_Car_Ambo_01
+[2018.11.12-13.28.28:336][357]LogStaticMesh: Building static mesh SM_Prop_Water_Tower_01...
+[2018.11.12-13.28.28:364][357]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Props/SM_Prop_Water_Tower_01.SM_Prop_Water_Tower_01
+[2018.11.12-13.28.28:375][357]LogStaticMesh: Building static mesh SM_Prop_Washingline_03...
+[2018.11.12-13.28.28:385][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Washingline_03.SM_Prop_Washingline_03
+[2018.11.12-13.28.28:395][357]LogStaticMesh: Building static mesh SM_Prop_Washingline_02...
+[2018.11.12-13.28.28:406][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Washingline_02.SM_Prop_Washingline_02
+[2018.11.12-13.28.28:416][357]LogStaticMesh: Building static mesh SM_Prop_Washingline_01...
+[2018.11.12-13.28.28:429][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Washingline_01.SM_Prop_Washingline_01
+[2018.11.12-13.28.28:434][357]LogStaticMesh: Building static mesh SM_Prop_Vents_Transition_01...
+[2018.11.12-13.28.28:439][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Vents_Transition_01.SM_Prop_Vents_Transition_01
+[2018.11.12-13.28.28:442][357]LogStaticMesh: Building static mesh SM_Prop_Vents_Straight_01...
+[2018.11.12-13.28.28:446][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Vents_Straight_01.SM_Prop_Vents_Straight_01
+[2018.11.12-13.28.28:450][357]LogStaticMesh: Building static mesh SM_Prop_Vents_Exhaust_01...
+[2018.11.12-13.28.28:455][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Vents_Exhaust_01.SM_Prop_Vents_Exhaust_01
+[2018.11.12-13.28.28:459][357]LogStaticMesh: Building static mesh SM_Prop_Vents_End_01...
+[2018.11.12-13.28.28:460][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Vents_End_01.SM_Prop_Vents_End_01
+[2018.11.12-13.28.28:465][357]LogStaticMesh: Building static mesh SM_Prop_Vents_Corner_02...
+[2018.11.12-13.28.28:471][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Vents_Corner_02.SM_Prop_Vents_Corner_02
+[2018.11.12-13.28.28:476][357]LogStaticMesh: Building static mesh SM_Prop_Vents_Corner_01...
+[2018.11.12-13.28.28:480][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Vents_Corner_01.SM_Prop_Vents_Corner_01
+[2018.11.12-13.28.28:483][357]LogStaticMesh: Building static mesh SM_Prop_TrashCan_Lid_01...
+[2018.11.12-13.28.28:486][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_TrashCan_Lid_01.SM_Prop_TrashCan_Lid_01
+[2018.11.12-13.28.28:491][357]LogStaticMesh: Building static mesh SM_Prop_TrashCan_01...
+[2018.11.12-13.28.28:497][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_TrashCan_01.SM_Prop_TrashCan_01
+[2018.11.12-13.28.28:505][357]LogStaticMesh: Building static mesh SM_Prop_Trashbin_01...
+[2018.11.12-13.28.28:514][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Trashbin_01.SM_Prop_Trashbin_01
+[2018.11.12-13.28.28:519][357]LogStaticMesh: Building static mesh SM_Prop_TrashBag_03...
+[2018.11.12-13.28.28:520][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_TrashBag_03.SM_Prop_TrashBag_03
+[2018.11.12-13.28.28:523][357]LogStaticMesh: Building static mesh SM_Prop_TrashBag_02...
+[2018.11.12-13.28.28:525][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_TrashBag_02.SM_Prop_TrashBag_02
+[2018.11.12-13.28.28:528][357]LogStaticMesh: Building static mesh SM_Prop_TrashBag_01...
+[2018.11.12-13.28.28:530][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_TrashBag_01.SM_Prop_TrashBag_01
+[2018.11.12-13.28.28:533][357]LogStaticMesh: Building static mesh SM_Prop_Table_02...
+[2018.11.12-13.28.28:535][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Table_02.SM_Prop_Table_02
+[2018.11.12-13.28.28:536][357]LogStaticMesh: Building static mesh SM_Prop_Skylight_01_Glass...
+[2018.11.12-13.28.28:537][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Skylight_01_Glass.SM_Prop_Skylight_01_Glass
+[2018.11.12-13.28.28:542][357]LogStaticMesh: Building static mesh SM_Prop_Skylight_01...
+[2018.11.12-13.28.28:547][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Skylight_01.SM_Prop_Skylight_01
+[2018.11.12-13.28.28:561][357]LogStaticMesh: Building static mesh SM_Prop_Skip_02...
+[2018.11.12-13.28.28:585][357]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Props/SM_Prop_Skip_02.SM_Prop_Skip_02
+[2018.11.12-13.28.28:605][357]LogStaticMesh: Building static mesh SM_Prop_Skip_01...
+[2018.11.12-13.28.28:628][357]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Props/SM_Prop_Skip_01.SM_Prop_Skip_01
+[2018.11.12-13.28.28:633][357]LogStaticMesh: Building static mesh SM_Prop_Sign_Warning_01...
+[2018.11.12-13.28.28:634][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_Warning_01.SM_Prop_Sign_Warning_01
+[2018.11.12-13.28.28:637][357]LogStaticMesh: Building static mesh SM_Prop_Sign_Stop_01...
+[2018.11.12-13.28.28:640][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_Stop_01.SM_Prop_Sign_Stop_01
+[2018.11.12-13.28.28:645][357]LogStaticMesh: Building static mesh SM_Prop_Sign_Police_01...
+[2018.11.12-13.28.28:651][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_Police_01.SM_Prop_Sign_Police_01
+[2018.11.12-13.28.28:657][357]LogStaticMesh: Building static mesh SM_Prop_Sign_Pizza_01...
+[2018.11.12-13.28.28:662][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_Pizza_01.SM_Prop_Sign_Pizza_01
+[2018.11.12-13.28.28:665][357]LogStaticMesh: Building static mesh SM_Prop_Sign_Parking_01...
+[2018.11.12-13.28.28:667][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_Parking_01.SM_Prop_Sign_Parking_01
+[2018.11.12-13.28.28:673][357]LogStaticMesh: Building static mesh SM_Prop_Sign_Hotel_01...
+[2018.11.12-13.28.28:680][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_Hotel_01.SM_Prop_Sign_Hotel_01
+[2018.11.12-13.28.28:688][357]LogStaticMesh: Building static mesh SM_Prop_Sign_Hospital_01...
+[2018.11.12-13.28.28:697][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_Hospital_01.SM_Prop_Sign_Hospital_01
+[2018.11.12-13.28.28:701][357]LogStaticMesh: Building static mesh SM_Prop_Sign_GiveWay_03...
+[2018.11.12-13.28.28:704][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_GiveWay_03.SM_Prop_Sign_GiveWay_03
+[2018.11.12-13.28.28:711][357]LogStaticMesh: Building static mesh SM_Prop_Sign_Chinese_Noodles_01...
+[2018.11.12-13.28.28:720][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_Chinese_Noodles_01.SM_Prop_Sign_Chinese_Noodles_01
+[2018.11.12-13.28.28:724][357]LogStaticMesh: Building static mesh SM_Prop_Sign_BusStop_01...
+[2018.11.12-13.28.28:729][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_BusStop_01.SM_Prop_Sign_BusStop_01
+[2018.11.12-13.28.28:732][357]LogStaticMesh: Building static mesh SM_Prop_Sign_Attachment_03...
+[2018.11.12-13.28.28:735][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_Attachment_03.SM_Prop_Sign_Attachment_03
+[2018.11.12-13.28.28:740][357]LogStaticMesh: Building static mesh SM_Prop_SidewalkPoles_01...
+[2018.11.12-13.28.28:745][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_SidewalkPoles_01.SM_Prop_SidewalkPoles_01
+[2018.11.12-13.28.28:749][357]LogStaticMesh: Building static mesh SM_Prop_ShopInterior_Table_01...
+[2018.11.12-13.28.28:751][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Table_01.SM_Prop_ShopInterior_Table_01
+[2018.11.12-13.28.28:753][357]LogStaticMesh: Building static mesh SM_Prop_SecurityCamera_Head_01...
+[2018.11.12-13.28.28:755][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_SecurityCamera_Head_01.SM_Prop_SecurityCamera_Head_01
+[2018.11.12-13.28.28:757][357]LogStaticMesh: Building static mesh SM_Prop_SecurityCamera_Arm_01...
+[2018.11.12-13.28.28:759][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_SecurityCamera_Arm_01.SM_Prop_SecurityCamera_Arm_01
+[2018.11.12-13.28.29:059][357]LogStaticMesh: Building static mesh SM_Prop_SatDish_01...
+[2018.11.12-13.28.29:063][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_SatDish_01.SM_Prop_SatDish_01
+[2018.11.12-13.28.29:077][357]LogStaticMesh: Building static mesh SM_Prop_Roof_Aircon_03...
+[2018.11.12-13.28.29:081][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Roof_Aircon_03.SM_Prop_Roof_Aircon_03
+[2018.11.12-13.28.29:086][357]LogStaticMesh: Building static mesh SM_Prop_Roof_Aircon_02...
+[2018.11.12-13.28.29:091][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Roof_Aircon_02.SM_Prop_Roof_Aircon_02
+[2018.11.12-13.28.29:094][357]LogShaderCompilers: Display: Shaders left to compile 1238
+[2018.11.12-13.28.29:095][357]LogStaticMesh: Building static mesh SM_Prop_Roof_Aircon_01...
+[2018.11.12-13.28.29:098][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Roof_Aircon_01.SM_Prop_Roof_Aircon_01
+[2018.11.12-13.28.29:103][357]LogStaticMesh: Building static mesh SM_Prop_PowerBox_01...
+[2018.11.12-13.28.29:110][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_PowerBox_01.SM_Prop_PowerBox_01
+[2018.11.12-13.28.29:113][357]LogStaticMesh: Building static mesh SM_Prop_Power_Cables_03...
+[2018.11.12-13.28.29:114][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Power_Cables_03.SM_Prop_Power_Cables_03
+[2018.11.12-13.28.29:117][357]LogStaticMesh: Building static mesh SM_Prop_Power_Cables_01...
+[2018.11.12-13.28.29:120][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Power_Cables_01.SM_Prop_Power_Cables_01
+[2018.11.12-13.28.29:123][357]LogStaticMesh: Building static mesh SM_Prop_PotPlant_01...
+[2018.11.12-13.28.29:126][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_PotPlant_01.SM_Prop_PotPlant_01
+[2018.11.12-13.28.29:129][357]LogStaticMesh: Building static mesh SM_Prop_Poster_Frame_01...
+[2018.11.12-13.28.29:132][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Poster_Frame_01.SM_Prop_Poster_Frame_01
+[2018.11.12-13.28.29:136][357]LogStaticMesh: Building static mesh SM_Prop_PlanterWindow_02...
+[2018.11.12-13.28.29:157][357]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Props/SM_Prop_PlanterWindow_02.SM_Prop_PlanterWindow_02
+[2018.11.12-13.28.29:164][357]LogStaticMesh: Building static mesh SM_Prop_PlanterWindow_01...
+[2018.11.12-13.28.29:171][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_PlanterWindow_01.SM_Prop_PlanterWindow_01
+[2018.11.12-13.28.29:177][357]LogStaticMesh: Building static mesh SM_Prop_Planter_01...
+[2018.11.12-13.28.29:184][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Planter_01.SM_Prop_Planter_01
+[2018.11.12-13.28.29:189][357]LogStaticMesh: Building static mesh SM_Prop_PicnicTable_01...
+[2018.11.12-13.28.29:194][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_PicnicTable_01.SM_Prop_PicnicTable_01
+[2018.11.12-13.28.29:206][357]LogStaticMesh: Building static mesh SM_Prop_Phones_01...
+[2018.11.12-13.28.29:223][357]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Props/SM_Prop_Phones_01.SM_Prop_Phones_01
+[2018.11.12-13.28.29:230][357]LogStaticMesh: Building static mesh SM_Prop_ParkingMeter_02...
+[2018.11.12-13.28.29:235][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_ParkingMeter_02.SM_Prop_ParkingMeter_02
+[2018.11.12-13.28.29:239][357]LogStaticMesh: Building static mesh SM_Prop_ParkingMeter_01...
+[2018.11.12-13.28.29:242][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_ParkingMeter_01.SM_Prop_ParkingMeter_01
+[2018.11.12-13.28.29:249][357]LogStaticMesh: Building static mesh SM_Prop_ParkBench_01...
+[2018.11.12-13.28.29:259][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_ParkBench_01.SM_Prop_ParkBench_01
+[2018.11.12-13.28.29:264][357]LogStaticMesh: Building static mesh SM_Prop_Newspaper_02...
+[2018.11.12-13.28.29:268][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Newspaper_02.SM_Prop_Newspaper_02
+[2018.11.12-13.28.29:273][357]LogStaticMesh: Building static mesh SM_Prop_LightPole_Lights_02...
+[2018.11.12-13.28.29:276][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_LightPole_Lights_02.SM_Prop_LightPole_Lights_02
+[2018.11.12-13.28.29:282][357]LogStaticMesh: Building static mesh SM_Prop_LightPole_Lights_01...
+[2018.11.12-13.28.29:288][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_LightPole_Lights_01.SM_Prop_LightPole_Lights_01
+[2018.11.12-13.28.29:292][357]LogStaticMesh: Building static mesh SM_Prop_LightPole_CrossLights_01...
+[2018.11.12-13.28.29:295][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_LightPole_CrossLights_01.SM_Prop_LightPole_CrossLights_01
+[2018.11.12-13.28.29:300][357]LogStaticMesh: Building static mesh SM_Prop_Manhole_02...
+[2018.11.12-13.28.29:306][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Manhole_02.SM_Prop_Manhole_02
+[2018.11.12-13.28.29:310][357]LogStaticMesh: Building static mesh SM_Prop_Manhole_01...
+[2018.11.12-13.28.29:314][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Manhole_01.SM_Prop_Manhole_01
+[2018.11.12-13.28.29:320][357]LogStaticMesh: Building static mesh SM_Prop_Mailbox_01...
+[2018.11.12-13.28.29:326][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Mailbox_01.SM_Prop_Mailbox_01
+[2018.11.12-13.28.29:356][357]LogSkeletalMesh: Building Skeletal Mesh SK_Veh_Car_Van_01...
+[2018.11.12-13.28.29:376][357]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Van_01.SK_Veh_Car_Van_01
+[2018.11.12-13.28.29:407][357]LogSkeletalMesh: Building Skeletal Mesh SK_Veh_Car_Taxi_01...
+[2018.11.12-13.28.29:421][357]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Taxi_01.SK_Veh_Car_Taxi_01
+[2018.11.12-13.28.29:444][357]LogSkeletalMesh: Building Skeletal Mesh SK_Veh_Car_Small_01...
+[2018.11.12-13.28.29:457][357]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Small_01.SK_Veh_Car_Small_01
+[2018.11.12-13.28.29:493][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Texture_01_A, compiling. 
+[2018.11.12-13.28.29:579][357]LogMaterial: Display: Missing cached shader map for material Mat_PolygonCity_Glass_Windows, compiling. 
+[2018.11.12-13.28.29:805][357]LogStaticMesh: Building static mesh SM_Bld_OfficeOctagon_Roof_01...
+[2018.11.12-13.28.29:881][357]LogStaticMesh: Built static mesh [0.08s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOctagon_Roof_01.SM_Bld_OfficeOctagon_Roof_01
+[2018.11.12-13.28.30:359][357]LogStaticMesh: Building static mesh SM_Bld_OfficeOld_Large_01...
+[2018.11.12-13.28.31:481][357]LogShaderCompilers: Display: Shaders left to compile 1370
+[2018.11.12-13.28.31:481][357]LogStaticMesh: Built static mesh [1.12s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Large_01.SM_Bld_OfficeOld_Large_01
+[2018.11.12-13.28.31:603][357]LogStaticMesh: Building static mesh SM_Bld_OfficeOld_Large_02...
+[2018.11.12-13.28.31:745][357]LogStaticMesh: Built static mesh [0.14s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Large_02.SM_Bld_OfficeOld_Large_02
+[2018.11.12-13.28.31:845][357]LogStaticMesh: Building static mesh SM_Bld_OfficeOld_Large_Base_01...
+[2018.11.12-13.28.32:123][357]LogStaticMesh: Built static mesh [0.28s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Large_Base_01.SM_Bld_OfficeOld_Large_Base_01
+[2018.11.12-13.28.32:166][357]LogStaticMesh: Building static mesh SM_Bld_OfficeOld_Large_Floor_01...
+[2018.11.12-13.28.32:192][357]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Large_Floor_01.SM_Bld_OfficeOld_Large_Floor_01
+[2018.11.12-13.28.32:224][357]LogStaticMesh: Building static mesh SM_Bld_OfficeOld_Large_Roof_01...
+[2018.11.12-13.28.32:282][357]LogStaticMesh: Built static mesh [0.06s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Large_Roof_01.SM_Bld_OfficeOld_Large_Roof_01
+[2018.11.12-13.28.32:297][357]LogStaticMesh: Building static mesh SM_Bld_Shop_01...
+[2018.11.12-13.28.32:305][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_01.SM_Bld_Shop_01
+[2018.11.12-13.28.32:307][357]LogStaticMesh: Building static mesh SM_Bld_Shop_01_Glass...
+[2018.11.12-13.28.32:308][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_01_Glass.SM_Bld_Shop_01_Glass
+[2018.11.12-13.28.32:315][357]LogStaticMesh: Building static mesh SM_Bld_Shop_02...
+[2018.11.12-13.28.32:326][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_02.SM_Bld_Shop_02
+[2018.11.12-13.28.32:336][357]LogStaticMesh: Building static mesh SM_Bld_Shop_Corner_01...
+[2018.11.12-13.28.32:346][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Corner_01.SM_Bld_Shop_Corner_01
+[2018.11.12-13.28.32:349][357]LogStaticMesh: Building static mesh SM_Bld_Shop_Corner_01_Glass...
+[2018.11.12-13.28.32:350][357]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Corner_01_Glass.SM_Bld_Shop_Corner_01_Glass
+[2018.11.12-13.28.32:356][357]LogStaticMesh: Building static mesh SM_Bld_Shop_Corner_02...
+[2018.11.12-13.28.32:366][357]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Corner_02.SM_Bld_Shop_Corner_02
+[2018.11.12-13.28.32:421][357]LogAIModule: Creating AISystem for world Demonstration
+[2018.11.12-13.28.37:072][357]LogShaderCompilers: Display: Shaders left to compile 1360
+[2018.11.12-13.28.37:072][357]LogShaderCompilers: Display: Shaders left to compile 1350
+[2018.11.12-13.28.37:072][357]LogShaderCompilers: Display: Shaders left to compile 1340
+[2018.11.12-13.28.37:166][357]LogAssetEditorManager: Opening Asset editor for World /Game/PolygonCity/Maps/Demonstration.Demonstration
+[2018.11.12-13.28.37:445][357]Cmd: MAP LOAD FILE="../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Content/PolygonCity/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.12-13.28.37:448][357]LightingResults: New page: Lighting Build
+[2018.11.12-13.28.37:449][357]LoadErrors: New page: Loading map: Demonstration.umap
+[2018.11.12-13.28.37:450][357]MapCheck: New page: Map Check
+[2018.11.12-13.28.37:450][357]LightingResults: New page: Lighting Build
+[2018.11.12-13.28.38:048][357]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.11.12-13.28.38:171][357]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.12-13.28.38:378][357]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 206.486ms to complete.
+[2018.11.12-13.28.38:387][357]LogFileHelpers: Loading map 'Demonstration' took 0.944
+[2018.11.12-13.28.41:384][358]LogShaderCompilers: Display: Shaders left to compile 1330
+[2018.11.12-13.28.41:385][358]LogShaderCompilers: Display: Shaders left to compile 1320
+[2018.11.12-13.28.43:044][358]LogShaderCompilers: Display: Shaders left to compile 1310
+[2018.11.12-13.28.43:054][358]LogShaderCompilers: Display: Shaders left to compile 1300
+[2018.11.12-13.28.44:713][358]LogShaderCompilers: Display: Shaders left to compile 1290
+[2018.11.12-13.28.45:110][359]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Env_Road_Bare_178)
+[2018.11.12-13.28.48:293][359]LogShaderCompilers: Display: Shaders left to compile 1280
+[2018.11.12-13.28.48:293][359]LogShaderCompilers: Display: Shaders left to compile 1270
+[2018.11.12-13.28.48:293][359]LogShaderCompilers: Display: Shaders left to compile 1260
+[2018.11.12-13.28.48:778][359]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-13.28.50:438][363]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Env_Road_ParkingLines_16)
+[2018.11.12-13.28.50:587][363]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-13.28.50:594][363]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Env_Road_ParkingLines_16)
+[2018.11.12-13.28.50:677][363]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-13.28.51:854][427]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Bld_Apartment_Door_3)
+[2018.11.12-13.28.51:975][427]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-13.28.52:227][437]LogShaderCompilers: Display: Shaders left to compile 1250
+[2018.11.12-13.28.52:682][479]LogShaderCompilers: Display: Shaders left to compile 1240
+[2018.11.12-13.28.54:754][604]LogShaderCompilers: Display: Shaders left to compile 1230
+[2018.11.12-13.29.03:252][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-13.29.05:073][ 78]LogShaderCompilers: Display: Shaders left to compile 1220
+[2018.11.12-13.29.05:793][ 78]LogShaderCompilers: Display: Shaders left to compile 1210
+[2018.11.12-13.29.06:227][ 78]LogShaderCompilers: Display: Shaders left to compile 1200
+[2018.11.12-13.29.08:089][ 78]LogShaderCompilers: Display: Shaders left to compile 1190
+[2018.11.12-13.29.09:106][ 79]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Env_Skyline_02)
+[2018.11.12-13.29.09:274][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-13.29.09:737][ 80]LogShaderCompilers: Display: Shaders left to compile 1180
+[2018.11.12-13.29.10:331][ 80]LogShaderCompilers: Display: Shaders left to compile 1170
+[2018.11.12-13.29.12:705][ 80]LogShaderCompilers: Display: Shaders left to compile 1160
+[2018.11.12-13.29.13:276][ 80]LogShaderCompilers: Display: Shaders left to compile 1150
+[2018.11.12-13.29.14:504][ 80]LogShaderCompilers: Display: Shaders left to compile 1140
+[2018.11.12-13.29.19:846][396]LogShaderCompilers: Display: Shaders left to compile 1130
+[2018.11.12-13.29.32:321][ 73]LogShaderCompilers: Display: Shaders left to compile 1120
+[2018.11.12-13.29.41:385][512]LogShaderCompilers: Display: Shaders left to compile 1110
+[2018.11.12-13.29.44:391][685]LogShaderCompilers: Display: Shaders left to compile 1100
+[2018.11.12-13.30.04:918][811]LogShaderCompilers: Display: Shaders left to compile 1090
+[2018.11.12-13.30.14:579][394]LogShaderCompilers: Display: Shaders left to compile 1080
+[2018.11.12-13.30.15:667][444]LogShaderCompilers: Display: Shaders left to compile 1070
+[2018.11.12-13.30.27:504][893]LogShaderCompilers: Display: Shaders left to compile 1060
+[2018.11.12-13.30.27:989][907]LogShaderCompilers: Display: Shaders left to compile 1050
+[2018.11.12-13.30.30:007][966]LogShaderCompilers: Display: Shaders left to compile 1040
+[2018.11.12-13.30.39:880][288]LogShaderCompilers: Display: Shaders left to compile 1030
+[2018.11.12-13.30.49:873][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-13.31.04:741][701]LogStaticMesh: Building static mesh SM_Prop_Sign_Attachment_01...
+[2018.11.12-13.31.04:743][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_Attachment_01.SM_Prop_Sign_Attachment_01
+[2018.11.12-13.31.04:745][701]LogStaticMesh: Building static mesh SM_Prop_Pipe_Part_Connect_01...
+[2018.11.12-13.31.04:747][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Pipe_Part_Connect_01.SM_Prop_Pipe_Part_Connect_01
+[2018.11.12-13.31.04:749][701]LogStaticMesh: Building static mesh SM_Prop_Soda_02...
+[2018.11.12-13.31.04:750][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Soda_02.SM_Prop_Soda_02
+[2018.11.12-13.31.04:751][701]LogStaticMesh: Building static mesh SM_Prop_Soda_01...
+[2018.11.12-13.31.04:753][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Soda_01.SM_Prop_Soda_01
+[2018.11.12-13.31.04:757][701]LogStaticMesh: Building static mesh SM_Prop_Umbrella_01...
+[2018.11.12-13.31.04:767][701]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Umbrella_01.SM_Prop_Umbrella_01
+[2018.11.12-13.31.04:772][701]LogStaticMesh: Building static mesh SM_Prop_Pallet_01...
+[2018.11.12-13.31.04:776][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Pallet_01.SM_Prop_Pallet_01
+[2018.11.12-13.31.04:777][701]LogSkeletalMesh: Building Skeletal Mesh SK_Character_BusinessMan_Suit...
+[2018.11.12-13.31.04:781][701]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit.SK_Character_BusinessMan_Suit
+[2018.11.12-13.31.04:789][701]LogStaticMesh: Building static mesh SM_Prop_Pipe_Small_02...
+[2018.11.12-13.31.04:800][701]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Pipe_Small_02.SM_Prop_Pipe_Small_02
+[2018.11.12-13.31.04:804][701]LogStaticMesh: Building static mesh SM_Prop_Pipe_Part_Straight_01...
+[2018.11.12-13.31.04:804][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Pipe_Part_Straight_01.SM_Prop_Pipe_Part_Straight_01
+[2018.11.12-13.31.04:806][701]LogStaticMesh: Building static mesh SM_Prop_Pipe_Part_Corner_01...
+[2018.11.12-13.31.04:807][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Pipe_Part_Corner_01.SM_Prop_Pipe_Part_Corner_01
+[2018.11.12-13.31.04:813][701]LogStaticMesh: Building static mesh SM_Prop_ShopInterior_Display_02...
+[2018.11.12-13.31.04:814][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Display_02.SM_Prop_ShopInterior_Display_02
+[2018.11.12-13.31.04:816][701]LogStaticMesh: Building static mesh SM_Env_Road_01...
+[2018.11.12-13.31.04:816][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Road_01.SM_Env_Road_01
+[2018.11.12-13.31.04:817][701]LogSkeletalMesh: Building Skeletal Mesh SK_Character_Male_Police...
+[2018.11.12-13.31.04:822][701]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonCity/Meshes/Characters/SK_Character_Male_Police.SK_Character_Male_Police
+[2018.11.12-13.31.04:830][701]LogStaticMesh: Building static mesh SM_Prop_ShopInterior_Cafe_01...
+[2018.11.12-13.31.04:843][701]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Cafe_01.SM_Prop_ShopInterior_Cafe_01
+[2018.11.12-13.31.04:849][701]LogStaticMesh: Building static mesh SM_Prop_SecurityCamera_01...
+[2018.11.12-13.31.04:851][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_SecurityCamera_01.SM_Prop_SecurityCamera_01
+[2018.11.12-13.31.04:854][701]LogStaticMesh: Building static mesh SM_Prop_Power_Cables_02...
+[2018.11.12-13.31.04:855][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Power_Cables_02.SM_Prop_Power_Cables_02
+[2018.11.12-13.31.04:857][701]LogStaticMesh: Building static mesh SM_Bld_Shop_Cover_03...
+[2018.11.12-13.31.04:859][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Cover_03.SM_Bld_Shop_Cover_03
+[2018.11.12-13.31.04:862][701]LogStaticMesh: Building static mesh SM_Prop_Washingline_04...
+[2018.11.12-13.31.04:863][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Washingline_04.SM_Prop_Washingline_04
+[2018.11.12-13.31.04:866][701]LogStaticMesh: Building static mesh SM_Prop_Vents_Wide_01...
+[2018.11.12-13.31.04:870][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Vents_Wide_01.SM_Prop_Vents_Wide_01
+[2018.11.12-13.31.04:872][701]LogStaticMesh: Building static mesh SM_Env_Road_Patch_01...
+[2018.11.12-13.31.04:874][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Road_Patch_01.SM_Env_Road_Patch_01
+[2018.11.12-13.31.04:879][701]LogStaticMesh: Building static mesh SM_Prop_Deckchair_01...
+[2018.11.12-13.31.04:886][701]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Deckchair_01.SM_Prop_Deckchair_01
+[2018.11.12-13.31.04:891][701]LogStaticMesh: Building static mesh SM_Prop_Door_01...
+[2018.11.12-13.31.04:895][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Door_01.SM_Prop_Door_01
+[2018.11.12-13.31.04:907][701]LogStaticMesh: Building static mesh SM_Prop_Pipe_Present_03...
+[2018.11.12-13.31.04:925][701]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Props/SM_Prop_Pipe_Present_03.SM_Prop_Pipe_Present_03
+[2018.11.12-13.31.04:932][701]LogStaticMesh: Building static mesh SM_Bld_Shop_Cover_02...
+[2018.11.12-13.31.04:935][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Cover_02.SM_Bld_Shop_Cover_02
+[2018.11.12-13.31.04:939][701]LogStaticMesh: Building static mesh SM_Bld_Shop_Cover_01...
+[2018.11.12-13.31.04:940][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Cover_01.SM_Bld_Shop_Cover_01
+[2018.11.12-13.31.04:943][701]LogSkeletalMesh: Building Skeletal Mesh SK_Character_Male_Jacket...
+[2018.11.12-13.31.04:946][701]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonCity/Meshes/Characters/SK_Character_Male_Jacket.SK_Character_Male_Jacket
+[2018.11.12-13.31.04:952][701]LogStaticMesh: Building static mesh SM_Prop_Planter_02...
+[2018.11.12-13.31.04:959][701]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Planter_02.SM_Prop_Planter_02
+[2018.11.12-13.31.04:962][701]LogStaticMesh: Building static mesh SM_Prop_ShopInterior_Chair_01...
+[2018.11.12-13.31.04:964][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Chair_01.SM_Prop_ShopInterior_Chair_01
+[2018.11.12-13.31.04:975][701]LogStaticMesh: Building static mesh SM_Bld_OfficeSquare_04...
+[2018.11.12-13.31.04:989][701]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeSquare_04.SM_Bld_OfficeSquare_04
+[2018.11.12-13.31.05:034][701]LogStaticMesh: Building static mesh SM_Bld_OfficeSquare_03...
+[2018.11.12-13.31.05:102][701]LogStaticMesh: Built static mesh [0.07s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeSquare_03.SM_Bld_OfficeSquare_03
+[2018.11.12-13.31.05:114][701]LogSkeletalMesh: Building Skeletal Mesh SK_Character_Female_Jacket...
+[2018.11.12-13.31.05:118][701]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonCity/Meshes/Characters/SK_Character_Female_Jacket.SK_Character_Female_Jacket
+[2018.11.12-13.31.05:119][701]LogSkeletalMesh: Building Skeletal Mesh SK_Character_Female_Police...
+[2018.11.12-13.31.05:124][701]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PolygonCity/Meshes/Characters/SK_Character_Female_Police.SK_Character_Female_Police
+[2018.11.12-13.31.05:127][701]LogStaticMesh: Building static mesh SM_Bld_Spire_01...
+[2018.11.12-13.31.05:128][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_Spire_01.SM_Bld_Spire_01
+[2018.11.12-13.31.05:129][701]LogSkeletalMesh: Building Skeletal Mesh SK_Character_BusinessMan_Shirt...
+[2018.11.12-13.31.05:132][701]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt.SK_Character_BusinessMan_Shirt
+[2018.11.12-13.31.05:133][701]LogSkeletalMesh: Building Skeletal Mesh SK_Character_BusinessWoman...
+[2018.11.12-13.31.05:138][701]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman.SK_Character_BusinessWoman
+[2018.11.12-13.31.05:175][701]LogStaticMesh: Building static mesh SM_Bld_OfficeOld_Small_02...
+[2018.11.12-13.31.05:254][701]LogStaticMesh: Built static mesh [0.08s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Small_02.SM_Bld_OfficeOld_Small_02
+[2018.11.12-13.31.05:270][701]LogStaticMesh: Building static mesh SM_Prop_Light_Attachment_01...
+[2018.11.12-13.31.05:272][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Light_Attachment_01.SM_Prop_Light_Attachment_01
+[2018.11.12-13.31.05:276][701]LogStaticMesh: Building static mesh SM_Prop_Sign_Cafe_01...
+[2018.11.12-13.31.05:282][701]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_Cafe_01.SM_Prop_Sign_Cafe_01
+[2018.11.12-13.31.05:289][701]LogStaticMesh: Building static mesh SM_Prop_Sign_Barber_01...
+[2018.11.12-13.31.05:295][701]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_Barber_01.SM_Prop_Sign_Barber_01
+[2018.11.12-13.31.05:298][701]LogStaticMesh: Building static mesh SM_Prop_Sign_DeliPizza_01...
+[2018.11.12-13.31.05:299][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_DeliPizza_01.SM_Prop_Sign_DeliPizza_01
+[2018.11.12-13.31.05:301][701]LogStaticMesh: Building static mesh SM_Prop_Sign_Attachment_02...
+[2018.11.12-13.31.05:302][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_Attachment_02.SM_Prop_Sign_Attachment_02
+[2018.11.12-13.31.05:306][701]LogStaticMesh: Building static mesh SM_Prop_Sign_Bar_01...
+[2018.11.12-13.31.05:310][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_Bar_01.SM_Prop_Sign_Bar_01
+[2018.11.12-13.31.05:312][701]LogStaticMesh: Building static mesh SM_Prop_BusStop_01_Glass...
+[2018.11.12-13.31.05:312][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_BusStop_01_Glass.SM_Prop_BusStop_01_Glass
+[2018.11.12-13.31.05:315][701]LogStaticMesh: Building static mesh SM_Env_Path_Straight_01...
+[2018.11.12-13.31.05:318][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Path_Straight_01.SM_Env_Path_Straight_01
+[2018.11.12-13.31.05:322][701]LogStaticMesh: Building static mesh SM_Env_Path_T_01...
+[2018.11.12-13.31.05:326][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Path_T_01.SM_Env_Path_T_01
+[2018.11.12-13.31.05:328][701]LogStaticMesh: Building static mesh SM_Prop_Sign_Arrow_01...
+[2018.11.12-13.31.05:330][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_Arrow_01.SM_Prop_Sign_Arrow_01
+[2018.11.12-13.31.05:332][701]LogStaticMesh: Building static mesh SM_Prop_SidewalkPoles_02...
+[2018.11.12-13.31.05:333][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_SidewalkPoles_02.SM_Prop_SidewalkPoles_02
+[2018.11.12-13.31.05:336][701]LogStaticMesh: Building static mesh SM_Prop_ShopInterior_Shelf_02...
+[2018.11.12-13.31.05:338][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Shelf_02.SM_Prop_ShopInterior_Shelf_02
+[2018.11.12-13.31.05:348][701]LogStaticMesh: Building static mesh SM_Prop_ShopInterior_Shelf_01...
+[2018.11.12-13.31.05:363][701]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Shelf_01.SM_Prop_ShopInterior_Shelf_01
+[2018.11.12-13.31.05:369][701]LogMaterial: Display: Missing cached shader map for material Mat_Overview_Ground, compiling. 
+[2018.11.12-13.31.05:395][701]LogStaticMesh: Building static mesh SM_Prop_Poster_01...
+[2018.11.12-13.31.05:395][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Poster_01.SM_Prop_Poster_01
+[2018.11.12-13.31.05:397][701]LogStaticMesh: Building static mesh SM_Prop_Police_Baton_01...
+[2018.11.12-13.31.05:399][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Police_Baton_01.SM_Prop_Police_Baton_01
+[2018.11.12-13.31.05:400][701]LogStaticMesh: Building static mesh SM_Prop_Poster_02...
+[2018.11.12-13.31.05:401][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Poster_02.SM_Prop_Poster_02
+[2018.11.12-13.31.05:402][701]LogStaticMesh: Building static mesh SM_Prop_Poster_03...
+[2018.11.12-13.31.05:402][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Poster_03.SM_Prop_Poster_03
+[2018.11.12-13.31.05:404][701]LogStaticMesh: Building static mesh SM_Prop_Sidewalk_Panel_01...
+[2018.11.12-13.31.05:405][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sidewalk_Panel_01.SM_Prop_Sidewalk_Panel_01
+[2018.11.12-13.31.05:408][701]LogStaticMesh: Building static mesh SM_Prop_Sign_GiveWay_02...
+[2018.11.12-13.31.05:410][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_GiveWay_02.SM_Prop_Sign_GiveWay_02
+[2018.11.12-13.31.05:456][701]LogStaticMesh: Building static mesh SM_Bld_OfficeRound_03...
+[2018.11.12-13.31.05:533][701]LogStaticMesh: Built static mesh [0.08s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeRound_03.SM_Bld_OfficeRound_03
+[2018.11.12-13.31.05:548][701]LogStaticMesh: Building static mesh SM_Prop_Paper_03...
+[2018.11.12-13.31.05:548][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Paper_03.SM_Prop_Paper_03
+[2018.11.12-13.31.05:549][701]LogStaticMesh: Building static mesh SM_Prop_Paper_04...
+[2018.11.12-13.31.05:550][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Paper_04.SM_Prop_Paper_04
+[2018.11.12-13.31.05:584][701]LogStaticMesh: Building static mesh SM_Prop_Pipe_Present_02...
+[2018.11.12-13.31.05:661][701]LogStaticMesh: Built static mesh [0.08s] /Game/PolygonCity/Meshes/Props/SM_Prop_Pipe_Present_02.SM_Prop_Pipe_Present_02
+[2018.11.12-13.31.05:718][701]LogStaticMesh: Building static mesh SM_Bld_OfficeRound_01...
+[2018.11.12-13.31.05:797][701]LogStaticMesh: Built static mesh [0.08s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeRound_01.SM_Bld_OfficeRound_01
+[2018.11.12-13.31.05:880][701]LogStaticMesh: Building static mesh SM_Bld_OfficeOctagon_01...
+[2018.11.12-13.31.06:058][701]LogStaticMesh: Built static mesh [0.18s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOctagon_01.SM_Bld_OfficeOctagon_01
+[2018.11.12-13.31.06:082][701]LogStaticMesh: Building static mesh SM_Prop_Pipe_Part_T_01...
+[2018.11.12-13.31.06:089][701]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Pipe_Part_T_01.SM_Prop_Pipe_Part_T_01
+[2018.11.12-13.31.06:094][701]LogStaticMesh: Building static mesh SM_Prop_Cone_02...
+[2018.11.12-13.31.06:098][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Cone_02.SM_Prop_Cone_02
+[2018.11.12-13.31.06:100][701]LogStaticMesh: Building static mesh SM_Prop_CarboardBox_02...
+[2018.11.12-13.31.06:101][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_CarboardBox_02.SM_Prop_CarboardBox_02
+[2018.11.12-13.31.06:103][701]LogStaticMesh: Building static mesh SM_Prop_ShopInterior_Shelf_04...
+[2018.11.12-13.31.06:104][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Shelf_04.SM_Prop_ShopInterior_Shelf_04
+[2018.11.12-13.31.06:118][701]LogStaticMesh: Building static mesh SM_Bld_OfficeRound_04...
+[2018.11.12-13.31.06:135][701]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonCity/Meshes/Buildings/SM_Bld_OfficeRound_04.SM_Bld_OfficeRound_04
+[2018.11.12-13.31.06:142][701]LogStaticMesh: Building static mesh SM_Prop_TrafficLight_02...
+[2018.11.12-13.31.06:146][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_TrafficLight_02.SM_Prop_TrafficLight_02
+[2018.11.12-13.31.06:187][701]LogStaticMesh: Building static mesh SM_Prop_Pipe_Present_01...
+[2018.11.12-13.31.06:262][701]LogStaticMesh: Built static mesh [0.07s] /Game/PolygonCity/Meshes/Props/SM_Prop_Pipe_Present_01.SM_Prop_Pipe_Present_01
+[2018.11.12-13.31.06:277][701]LogStaticMesh: Building static mesh SM_Env_Sidewalk_Straight_02...
+[2018.11.12-13.31.06:278][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Straight_02.SM_Env_Sidewalk_Straight_02
+[2018.11.12-13.31.06:282][701]LogStaticMesh: Building static mesh SM_Env_Path_Corner_01...
+[2018.11.12-13.31.06:285][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Path_Corner_01.SM_Env_Path_Corner_01
+[2018.11.12-13.31.06:288][701]LogStaticMesh: Building static mesh SM_Prop_Buger_01...
+[2018.11.12-13.31.06:291][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Buger_01.SM_Prop_Buger_01
+[2018.11.12-13.31.06:296][701]LogStaticMesh: Building static mesh SM_Prop_LargeSign_Donut_01...
+[2018.11.12-13.31.06:303][701]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Donut_01.SM_Prop_LargeSign_Donut_01
+[2018.11.12-13.31.06:307][701]LogStaticMesh: Building static mesh SM_Prop_LargeSign_Icecream_01...
+[2018.11.12-13.31.06:310][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Icecream_01.SM_Prop_LargeSign_Icecream_01
+[2018.11.12-13.31.06:314][701]LogStaticMesh: Building static mesh SM_Prop_Pipe_Small_01...
+[2018.11.12-13.31.06:318][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Pipe_Small_01.SM_Prop_Pipe_Small_01
+[2018.11.12-13.31.06:324][701]LogStaticMesh: Building static mesh SM_Env_GrassPath_Junction_01...
+[2018.11.12-13.31.06:330][701]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Environments/SM_Env_GrassPath_Junction_01.SM_Env_GrassPath_Junction_01
+[2018.11.12-13.31.06:333][701]LogStaticMesh: Building static mesh SM_Diagnostic_Plane_01...
+[2018.11.12-13.31.06:338][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Diagnostic_Plane_01.SM_Diagnostic_Plane_01
+[2018.11.12-13.31.06:340][701]LogStaticMesh: Building static mesh SM_Prop_Paper_05...
+[2018.11.12-13.31.06:341][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Paper_05.SM_Prop_Paper_05
+[2018.11.12-13.31.06:343][701]LogStaticMesh: Building static mesh SM_Prop_ShopInterior_Shelf_03...
+[2018.11.12-13.31.06:344][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Shelf_03.SM_Prop_ShopInterior_Shelf_03
+[2018.11.12-13.31.06:347][701]LogStaticMesh: Building static mesh SM_Prop_TrafficLight_03...
+[2018.11.12-13.31.06:351][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_TrafficLight_03.SM_Prop_TrafficLight_03
+[2018.11.12-13.31.06:355][701]LogStaticMesh: Building static mesh SM_Prop_Trashbin_02...
+[2018.11.12-13.31.06:358][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Trashbin_02.SM_Prop_Trashbin_02
+[2018.11.12-13.31.06:361][701]LogStaticMesh: Building static mesh SM_Prop_Window_01...
+[2018.11.12-13.31.06:363][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Window_01.SM_Prop_Window_01
+[2018.11.12-13.31.06:365][701]LogSkeletalMesh: Building Skeletal Mesh SK_Character_Female_Coat...
+[2018.11.12-13.31.06:369][701]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonCity/Meshes/Characters/SK_Character_Female_Coat.SK_Character_Female_Coat
+[2018.11.12-13.31.06:375][701]LogStaticMesh: Building static mesh SM_Prop_PotPlant_02...
+[2018.11.12-13.31.06:384][701]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_PotPlant_02.SM_Prop_PotPlant_02
+[2018.11.12-13.31.06:386][701]LogStaticMesh: Building static mesh SM_Prop_Paper_01...
+[2018.11.12-13.31.06:387][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Paper_01.SM_Prop_Paper_01
+[2018.11.12-13.31.06:387][701]LogStaticMesh: Building static mesh SM_Prop_Paper_02...
+[2018.11.12-13.31.06:388][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Paper_02.SM_Prop_Paper_02
+[2018.11.12-13.31.06:389][701]LogStaticMesh: Building static mesh SM_Prop_Sidewalk_Panel_05...
+[2018.11.12-13.31.06:391][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sidewalk_Panel_05.SM_Prop_Sidewalk_Panel_05
+[2018.11.12-13.31.06:394][701]LogStaticMesh: Building static mesh SM_Prop_Sidewalk_Panel_04...
+[2018.11.12-13.31.06:396][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sidewalk_Panel_04.SM_Prop_Sidewalk_Panel_04
+[2018.11.12-13.31.06:398][701]LogStaticMesh: Building static mesh SM_Env_Road_Median_02...
+[2018.11.12-13.31.06:399][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Road_Median_02.SM_Env_Road_Median_02
+[2018.11.12-13.31.06:400][701]LogStaticMesh: Building static mesh SM_Env_Road_Median_01...
+[2018.11.12-13.31.06:401][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Road_Median_01.SM_Env_Road_Median_01
+[2018.11.12-13.31.06:411][701]LogStaticMesh: Building static mesh SM_Prop_Sign_FireDepartment_01...
+[2018.11.12-13.31.06:424][701]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_FireDepartment_01.SM_Prop_Sign_FireDepartment_01
+[2018.11.12-13.31.06:429][701]LogStaticMesh: Building static mesh SM_Prop_Sign_Entrance_01...
+[2018.11.12-13.31.06:430][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_Entrance_01.SM_Prop_Sign_Entrance_01
+[2018.11.12-13.31.06:432][701]LogStaticMesh: Building static mesh SM_Prop_Sign_GiveWay_01...
+[2018.11.12-13.31.06:435][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_GiveWay_01.SM_Prop_Sign_GiveWay_01
+[2018.11.12-13.31.06:437][701]LogStaticMesh: Building static mesh SM_Prop_Sidewalk_Panel_02...
+[2018.11.12-13.31.06:439][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sidewalk_Panel_02.SM_Prop_Sidewalk_Panel_02
+[2018.11.12-13.31.06:441][701]LogStaticMesh: Building static mesh SM_Prop_Sidewalk_Panel_03...
+[2018.11.12-13.31.06:443][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sidewalk_Panel_03.SM_Prop_Sidewalk_Panel_03
+[2018.11.12-13.31.06:445][701]LogStaticMesh: Building static mesh SM_Prop_Sign_Street_01...
+[2018.11.12-13.31.06:447][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_Street_01.SM_Prop_Sign_Street_01
+[2018.11.12-13.31.06:450][701]LogStaticMesh: Building static mesh SM_Prop_Sign_Pub_01...
+[2018.11.12-13.31.06:454][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_Pub_01.SM_Prop_Sign_Pub_01
+[2018.11.12-13.31.06:456][701]LogStaticMesh: Building static mesh SM_Prop_Sign_Street_02...
+[2018.11.12-13.31.06:458][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_Street_02.SM_Prop_Sign_Street_02
+[2018.11.12-13.31.06:472][701]LogStaticMesh: Building static mesh SM_Env_Path_Junction_01...
+[2018.11.12-13.31.06:477][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Environments/SM_Env_Path_Junction_01.SM_Env_Path_Junction_01
+[2018.11.12-13.31.06:480][701]LogStaticMesh: Building static mesh SM_Prop_Door_02...
+[2018.11.12-13.31.06:481][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Door_02.SM_Prop_Door_02
+[2018.11.12-13.31.06:484][701]LogStaticMesh: Building static mesh SM_Prop_LargeSign_Beer_01...
+[2018.11.12-13.31.06:485][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Beer_01.SM_Prop_LargeSign_Beer_01
+[2018.11.12-13.31.06:489][701]LogStaticMesh: Building static mesh SM_Prop_LargeSign_Soda_01...
+[2018.11.12-13.31.06:493][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Soda_01.SM_Prop_LargeSign_Soda_01
+[2018.11.12-13.31.06:496][701]LogStaticMesh: Building static mesh SM_Prop_Newspaper_01...
+[2018.11.12-13.31.06:497][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Newspaper_01.SM_Prop_Newspaper_01
+[2018.11.12-13.31.06:501][701]LogStaticMesh: Building static mesh SM_Prop_ShopInterior_Desk_01...
+[2018.11.12-13.31.06:506][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Desk_01.SM_Prop_ShopInterior_Desk_01
+[2018.11.12-13.31.06:511][701]LogStaticMesh: Building static mesh SM_Prop_ShopInterior_Desk_02...
+[2018.11.12-13.31.06:516][701]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Desk_02.SM_Prop_ShopInterior_Desk_02
+[2018.11.12-13.31.06:519][701]LogStaticMesh: Building static mesh SM_Prop_ShopInterior_Display_01...
+[2018.11.12-13.31.06:520][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Display_01.SM_Prop_ShopInterior_Display_01
+[2018.11.12-13.31.06:530][701]LogStaticMesh: Building static mesh SM_Prop_Sign_XXX_01...
+[2018.11.12-13.31.06:539][701]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonCity/Meshes/Props/SM_Prop_Sign_XXX_01.SM_Prop_Sign_XXX_01
+[2018.11.12-13.31.06:543][701]LogStaticMesh: Building static mesh SM_Prop_SmartPhone_01...
+[2018.11.12-13.31.06:544][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_SmartPhone_01.SM_Prop_SmartPhone_01
+[2018.11.12-13.31.06:546][701]LogStaticMesh: Building static mesh SM_Prop_Soda_03...
+[2018.11.12-13.31.06:547][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_Soda_03.SM_Prop_Soda_03
+[2018.11.12-13.31.06:550][701]LogStaticMesh: Building static mesh SM_Prop_TrafficLight_01...
+[2018.11.12-13.31.06:553][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonCity/Meshes/Props/SM_Prop_TrafficLight_01.SM_Prop_TrafficLight_01
+[2018.11.12-13.31.06:555][701]LogSkeletalMesh: Building Skeletal Mesh SK_Character_Male_Hoodie...
+[2018.11.12-13.31.06:558][701]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonCity/Meshes/Characters/SK_Character_Male_Hoodie.SK_Character_Male_Hoodie
+[2018.11.12-13.31.06:573][701]LogAIModule: Creating AISystem for world Overview
+[2018.11.12-13.31.06:594][701]LogAssetEditorManager: Opening Asset editor for World /Game/PolygonCity/Maps/Overview.Overview
+[2018.11.12-13.31.13:997][701]LogShaderCompilers: Display: Shaders left to compile 1051
+[2018.11.12-13.31.18:502][701]LogShaderCompilers: Display: Shaders left to compile 1041
+[2018.11.12-13.31.21:982][701]LogSlate: Window 'Save Content' being destroyed
+[2018.11.12-13.31.26:920][701]LogShaderCompilers: Display: Shaders left to compile 1031
+[2018.11.12-13.31.28:147][701]LogSavePackage: Moving '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Saved/Demonstration9C3419E94D7DF3E92887B8A815E1814B.tmp' to '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Content/PolygonCity/Maps/Demonstration.umap'
+[2018.11.12-13.31.28:187][701]LogFileHelpers: Saving map 'Demonstration' took 6.198
+[2018.11.12-13.31.28:188][701]Cmd: MAP LOAD FILE="../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Content/PolygonCity/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.12-13.31.28:189][701]LightingResults: New page: Lighting Build
+[2018.11.12-13.31.28:189][701]LoadErrors: New page: Loading map: Overview.umap
+[2018.11.12-13.31.28:272][701]MapCheck: New page: Map Check
+[2018.11.12-13.31.28:272][701]LightingResults: New page: Lighting Build
+[2018.11.12-13.31.28:432][701]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.12-13.31.28:497][701]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.12-13.31.28:736][701]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 238.378ms to complete.
+[2018.11.12-13.31.28:746][701]LogFileHelpers: Loading map 'Overview' took 0.559
+[2018.11.12-13.31.41:683][527]LogShaderCompilers: Display: Shaders left to compile 1021
+[2018.11.12-13.33.02:718][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-13.33.05:315][423]LogAIModule: Creating AISystem for world testmap
+[2018.11.12-13.33.05:320][423]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/testmap.testmap
+[2018.11.12-13.33.05:366][423]Cmd: MAP LOAD FILE="../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Content/Maps/testmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.12-13.33.05:366][423]LightingResults: New page: Lighting Build
+[2018.11.12-13.33.05:367][423]LoadErrors: New page: Loading map: testmap.umap
+[2018.11.12-13.33.05:373][423]MapCheck: New page: Map Check
+[2018.11.12-13.33.05:373][423]LightingResults: New page: Lighting Build
+[2018.11.12-13.33.05:416][423]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.12-13.33.11:323][423]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.12-13.33.11:571][423]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 247.902ms to complete.
+[2018.11.12-13.33.11:576][423]LogFileHelpers: Loading map 'testmap' took 6.211
+[2018.11.12-13.33.19:351][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-13.33.35:470][198]LogShaderCompilers: Display: Shaders left to compile 1011
+[2018.11.12-13.33.49:768][206]LogShaderCompilers: Display: Shaders left to compile 1001
+[2018.11.12-13.33.52:285][379]LogShaderCompilers: Display: Shaders left to compile 991
+[2018.11.12-13.34.40:181][911]LogShaderCompilers: Display: Shaders left to compile 981
+[2018.11.12-13.34.40:901][927]LogShaderCompilers: Display: Shaders left to compile 971
+[2018.11.12-13.34.51:884][669]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2018.11.12-13.34.51:903][669]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.12-13.34.51:950][669]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2018.11.12-13.34.52:530][669]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2018.11.12-13.34.52:627][669]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2018.11.12-13.34.52:627][669]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (DXT1, 512X512)
+[2018.11.12-13.34.52:627][669]LogTexture: Display: Building textures: UE4Man_Logo_N (BC5, 512X512)
+[2018.11.12-13.34.52:627][669]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2018.11.12-13.34.53:117][669]LogTexture: Display: Building textures: UE4_Mannequin_occlusion_Mobile (DXT1, 512X512)
+[2018.11.12-13.34.53:117][669]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (AutoDXT, 1024X1024)
+[2018.11.12-13.34.54:154][669]LogTexture: Display: Building textures: T_ML_Aluminum01 (DXT1, 512X512)
+[2018.11.12-13.34.54:154][669]LogTexture: Display: Building textures: UE4_Mannequin__normals (BC5, 2048X2048)
+[2018.11.12-13.34.54:154][669]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2018.11.12-13.34.54:154][669]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.11.12-13.34.54:258][669]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.11.12-13.34.54:564][669]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.11.12-13.34.56:030][669]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.12-13.34.56:087][669]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.11.12-13.34.57:346][669]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.12-13.35.05:440][669]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.11.12-13.35.05:695][670]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.11.12-13.35.16:023][671]LogSlate: Window 'Aim_Space_Hip' being destroyed
+[2018.11.12-13.35.16:113][671]LogSlate: Window 'Aim_Space_Hip' being destroyed
+[2018.11.12-13.36.11:795][671]LogShaderCompilers: Display: Shaders left to compile 1217
+[2018.11.12-13.36.11:795][671]LogShaderCompilers: Display: Shaders left to compile 1207
+[2018.11.12-13.36.11:795][671]LogShaderCompilers: Display: Shaders left to compile 1197
+[2018.11.12-13.36.11:795][671]LogShaderCompilers: Display: Shaders left to compile 1187
+[2018.11.12-13.36.11:795][671]LogShaderCompilers: Display: Shaders left to compile 1177
+[2018.11.12-13.36.11:795][671]LogShaderCompilers: Display: Shaders left to compile 1167
+[2018.11.12-13.36.11:795][671]LogShaderCompilers: Display: Shaders left to compile 1157
+[2018.11.12-13.36.20:072][860]LogShaderCompilers: Display: Shaders left to compile 1147
+[2018.11.12-13.36.24:850][986]LogShaderCompilers: Display: Shaders left to compile 1137
+[2018.11.12-13.36.26:312][ 26]LogShaderCompilers: Display: Shaders left to compile 1127
+[2018.11.12-13.36.30:929][151]LogShaderCompilers: Display: Shaders left to compile 1117
+[2018.11.12-13.36.31:164][158]LogShaderCompilers: Display: Shaders left to compile 1107
+[2018.11.12-13.36.32:269][187]LogShaderCompilers: Display: Shaders left to compile 1097
+[2018.11.12-13.36.34:223][233]LogShaderCompilers: Display: Shaders left to compile 1087
+[2018.11.12-13.36.34:897][250]LogShaderCompilers: Display: Shaders left to compile 1077
+[2018.11.12-13.36.35:432][265]LogShaderCompilers: Display: Shaders left to compile 1067
+[2018.11.12-13.36.39:903][382]LogShaderCompilers: Display: Shaders left to compile 1057
+[2018.11.12-13.36.40:792][408]LogShaderCompilers: Display: Shaders left to compile 1047
+[2018.11.12-13.36.41:360][425]LogShaderCompilers: Display: Shaders left to compile 1037
+[2018.11.12-13.36.44:851][523]LogShaderCompilers: Display: Shaders left to compile 1027
+[2018.11.12-13.36.46:490][568]LogShaderCompilers: Display: Shaders left to compile 1017
+[2018.11.12-13.36.47:453][593]LogShaderCompilers: Display: Shaders left to compile 1007
+[2018.11.12-13.36.50:278][662]LogShaderCompilers: Display: Shaders left to compile 997
+[2018.11.12-13.36.52:622][721]LogShaderCompilers: Display: Shaders left to compile 987
+[2018.11.12-13.36.53:676][738]LogShaderCompilers: Display: Shaders left to compile 977
+[2018.11.12-13.36.57:841][829]LogShaderCompilers: Display: Shaders left to compile 967
+[2018.11.12-13.36.58:411][833]LogShaderCompilers: Display: Shaders left to compile 957
+[2018.11.12-13.37.01:800][913]LogShaderCompilers: Display: Shaders left to compile 947
+[2018.11.12-13.37.02:749][917]LogShaderCompilers: Display: Shaders left to compile 937
+[2018.11.12-13.37.05:045][975]LogShaderCompilers: Display: Shaders left to compile 927
+[2018.11.12-13.37.07:291][ 27]LogShaderCompilers: Display: Shaders left to compile 917
+[2018.11.12-13.37.09:953][ 92]LogShaderCompilers: Display: Shaders left to compile 907
+[2018.11.12-13.37.10:138][ 96]LogShaderCompilers: Display: Shaders left to compile 897
+[2018.11.12-13.37.13:987][189]LogShaderCompilers: Display: Shaders left to compile 887
+[2018.11.12-13.37.14:383][200]LogShaderCompilers: Display: Shaders left to compile 877
+[2018.11.12-13.37.15:872][245]LogShaderCompilers: Display: Shaders left to compile 867
+[2018.11.12-13.37.18:466][325]LogShaderCompilers: Display: Shaders left to compile 857
+[2018.11.12-13.37.19:908][369]LogShaderCompilers: Display: Shaders left to compile 847
+[2018.11.12-13.37.21:598][421]LogShaderCompilers: Display: Shaders left to compile 837
+[2018.11.12-13.37.22:333][439]LogShaderCompilers: Display: Shaders left to compile 827
+[2018.11.12-13.37.24:904][507]LogShaderCompilers: Display: Shaders left to compile 817
+[2018.11.12-13.37.25:412][524]LogShaderCompilers: Display: Shaders left to compile 807
+[2018.11.12-13.37.27:389][584]LogShaderCompilers: Display: Shaders left to compile 797
+[2018.11.12-13.37.29:213][634]LogShaderCompilers: Display: Shaders left to compile 787
+[2018.11.12-13.37.30:416][674]LogShaderCompilers: Display: Shaders left to compile 777
+[2018.11.12-13.37.33:169][760]LogShaderCompilers: Display: Shaders left to compile 767
+[2018.11.12-13.37.33:193][761]LogShaderCompilers: Display: Shaders left to compile 757
+[2018.11.12-13.37.35:946][840]LogShaderCompilers: Display: Shaders left to compile 747
+[2018.11.12-13.37.36:225][852]LogShaderCompilers: Display: Shaders left to compile 737
+[2018.11.12-13.37.38:710][928]LogShaderCompilers: Display: Shaders left to compile 727
+[2018.11.12-13.37.39:845][959]LogShaderCompilers: Display: Shaders left to compile 717
+[2018.11.12-13.37.42:148][ 29]LogShaderCompilers: Display: Shaders left to compile 707
+[2018.11.12-13.37.42:703][ 48]LogShaderCompilers: Display: Shaders left to compile 697
+[2018.11.12-13.37.45:178][124]LogShaderCompilers: Display: Shaders left to compile 687
+[2018.11.12-13.37.45:512][133]LogShaderCompilers: Display: Shaders left to compile 677
+[2018.11.12-13.37.47:604][149]LogShaderCompilers: Display: Shaders left to compile 667
+[2018.11.12-13.37.48:706][184]LogShaderCompilers: Display: Shaders left to compile 657
+[2018.11.12-13.37.50:518][187]LogShaderCompilers: Display: Shaders left to compile 647
+[2018.11.12-13.37.51:065][191]LogShaderCompilers: Display: Shaders left to compile 637
+[2018.11.12-13.37.53:504][262]LogShaderCompilers: Display: Shaders left to compile 627
+[2018.11.12-13.37.53:612][265]LogShaderCompilers: Display: Shaders left to compile 617
+[2018.11.12-13.37.56:311][341]LogShaderCompilers: Display: Shaders left to compile 607
+[2018.11.12-13.37.57:460][378]LogShaderCompilers: Display: Shaders left to compile 597
+[2018.11.12-13.37.59:239][432]LogShaderCompilers: Display: Shaders left to compile 587
+[2018.11.12-13.38.01:467][497]LogShaderCompilers: Display: Shaders left to compile 577
+[2018.11.12-13.38.02:057][514]LogShaderCompilers: Display: Shaders left to compile 567
+[2018.11.12-13.38.05:796][579]LogShaderCompilers: Display: Shaders left to compile 557
+[2018.11.12-13.38.05:908][580]LogShaderCompilers: Display: Shaders left to compile 547
+[2018.11.12-13.38.09:612][670]LogShaderCompilers: Display: Shaders left to compile 537
+[2018.11.12-13.38.10:408][697]LogShaderCompilers: Display: Shaders left to compile 527
+[2018.11.12-13.38.13:205][756]LogShaderCompilers: Display: Shaders left to compile 517
+[2018.11.12-13.38.14:692][789]LogShaderCompilers: Display: Shaders left to compile 507
+[2018.11.12-13.38.17:663][851]LogShaderCompilers: Display: Shaders left to compile 497
+[2018.11.12-13.38.35:894][132]LogShaderCompilers: Display: Shaders left to compile 487
+[2018.11.12-13.39.03:130][742]LogShaderCompilers: Display: Shaders left to compile 477
+[2018.11.12-13.39.04:572][781]LogShaderCompilers: Display: Shaders left to compile 467
+[2018.11.12-13.39.06:940][833]LogShaderCompilers: Display: Shaders left to compile 457
+[2018.11.12-13.39.38:984][821]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.12-13.40.03:202][192]LogShaderCompilers: Display: Shaders left to compile 447
+[2018.11.12-13.40.04:779][241]LogShaderCompilers: Display: Shaders left to compile 437
+[2018.11.12-13.40.11:410][441]LogShaderCompilers: Display: Shaders left to compile 427
+[2018.11.12-13.40.15:040][546]LogShaderCompilers: Display: Shaders left to compile 417
+[2018.11.12-13.40.20:875][726]LogShaderCompilers: Display: Shaders left to compile 407
+[2018.11.12-13.40.26:124][885]LogShaderCompilers: Display: Shaders left to compile 397
+[2018.11.12-13.40.30:254][  4]LogShaderCompilers: Display: Shaders left to compile 387
+[2018.11.12-13.40.32:341][ 67]LogShaderCompilers: Display: Shaders left to compile 377
+[2018.11.12-13.40.36:348][182]LogShaderCompilers: Display: Shaders left to compile 367
+[2018.11.12-13.40.37:514][204]LogShaderCompilers: Display: Shaders left to compile 357
+[2018.11.12-13.40.40:887][295]LogShaderCompilers: Display: Shaders left to compile 347
+[2018.11.12-13.40.42:262][341]LogShaderCompilers: Display: Shaders left to compile 337
+[2018.11.12-13.40.45:351][437]LogShaderCompilers: Display: Shaders left to compile 327
+[2018.11.12-13.40.45:383][438]LogShaderCompilers: Display: Shaders left to compile 317
+[2018.11.12-13.40.46:673][473]LogShaderCompilers: Display: Shaders left to compile 307
+[2018.11.12-13.41.18:795][217]LogShaderCompilers: Display: Shaders left to compile 297
+[2018.11.12-13.41.27:556][429]LogShaderCompilers: Display: Shaders left to compile 287
+[2018.11.12-13.41.29:509][487]LogShaderCompilers: Display: Shaders left to compile 277
+[2018.11.12-13.41.30:666][519]LogShaderCompilers: Display: Shaders left to compile 267
+[2018.11.12-13.41.34:444][607]LogShaderCompilers: Display: Shaders left to compile 257
+[2018.11.12-13.41.35:266][610]LogShaderCompilers: Display: Shaders left to compile 247
+[2018.11.12-13.41.36:763][613]LogShaderCompilers: Display: Shaders left to compile 237
+[2018.11.12-13.41.37:885][616]LogShaderCompilers: Display: Shaders left to compile 227
+[2018.11.12-13.41.38:878][620]LogShaderCompilers: Display: Shaders left to compile 217
+[2018.11.12-13.41.42:178][623]LogShaderCompilers: Display: Shaders left to compile 207
+[2018.11.12-13.41.42:506][632]LogShaderCompilers: Display: Shaders left to compile 197
+[2018.11.12-13.41.45:418][721]LogShaderCompilers: Display: Shaders left to compile 187
+[2018.11.12-13.41.45:767][725]LogShaderCompilers: Display: Shaders left to compile 177
+[2018.11.12-13.41.49:576][728]LogShaderCompilers: Display: Shaders left to compile 167
+[2018.11.12-13.41.49:634][729]LogShaderCompilers: Display: Shaders left to compile 157
+[2018.11.12-13.41.49:891][738]LogShaderCompilers: Display: Shaders left to compile 147
+[2018.11.12-13.41.52:590][819]LogShaderCompilers: Display: Shaders left to compile 137
+[2018.11.12-13.41.52:825][826]LogShaderCompilers: Display: Shaders left to compile 127
+[2018.11.12-13.41.54:587][878]LogShaderCompilers: Display: Shaders left to compile 117
+[2018.11.12-13.41.55:728][917]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.11.12-13.41.57:400][968]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.11.12-13.41.57:660][976]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.11.12-13.41.58:628][  6]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.11.12-13.42.01:526][ 86]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.11.12-13.42.01:619][ 89]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.11.12-13.42.02:401][108]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.11.12-13.42.04:777][186]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.12-13.42.06:723][251]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.12-13.42.07:129][261]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.12-13.42.07:624][279]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.12-13.43.14:392][730]LogSlate: Took 0.089764 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.11.12-13.43.14:490][730]LogSlate: Took 0.096924 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2018.11.12-13.43.17:227][889]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.12-13.43.17:227][889]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.12-13.43.28:485][543]LogMetaData: Removing '/Game/Blueprints/Character/bp_tps_playerCharacter.bp_tps_playerCharacter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Character/NewBlueprint.PackageMetaData'
+[2018.11.12-13.43.28:485][543]LogMetaData: Removing '/Game/Blueprints/Character/bp_tps_playerCharacter.SKEL_bp_tps_playerCharacter_C' ref from Metadata '/Game/Blueprints/Character/NewBlueprint.PackageMetaData'
+[2018.11.12-13.43.28:485][543]LogMetaData: Removing '/Game/Blueprints/Character/bp_tps_playerCharacter.bp_tps_playerCharacter_C' ref from Metadata '/Game/Blueprints/Character/NewBlueprint.PackageMetaData'
+[2018.11.12-13.43.28:486][543]LogMetaData: Removing '/Game/Blueprints/Character/bp_tps_playerCharacter.bp_tps_playerCharacter:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Character/NewBlueprint.PackageMetaData'
+[2018.11.12-13.43.28:486][543]LogMetaData: Removing '/Game/Blueprints/Character/bp_tps_playerCharacter.bp_tps_playerCharacter:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Character/NewBlueprint.PackageMetaData'
+[2018.11.12-13.43.28:486][543]LogMetaData: Removing '/Game/Blueprints/Character/bp_tps_playerCharacter.bp_tps_playerCharacter:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Character/NewBlueprint.PackageMetaData'
+[2018.11.12-13.43.28:620][543]LogSavePackage: Moving '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Saved/bp_tps_playerCharacter9D0013CE4EC0948DC10E048502A351D9.tmp' to '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Content/Blueprints/Character/bp_tps_playerCharacter.uasset'
+[2018.11.12-13.43.39:052][122]LogSavePackage: Moving '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Saved/bp_tps_playerCharacter7EE29BF44FE8BD03DD71DD9940C2E237.tmp' to '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Content/Blueprints/Character/bp_tps_playerCharacter.uasset'
+[2018.11.12-13.43.45:560][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-13.43.45:686][517]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/bp_tps_playerCharacter.bp_tps_playerCharacter
+[2018.11.12-13.43.47:610][517]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.11.12-13.43.50:691][518]LogRenderer: Reallocating scene render targets to support 792x416 Format 10 NumSamples 1 (Frame:1).
+[2018.11.12-13.43.52:997][636]LogRenderer: Reallocating scene render targets to support 792x424 Format 10 NumSamples 1 (Frame:113).
+[2018.11.12-13.43.53:386][654]LogRenderer: Reallocating scene render targets to support 808x600 Format 10 NumSamples 1 (Frame:117).
+[2018.11.12-13.43.53:971][688]LogSlate: Window 'bp_tps_playerCharacter' being destroyed
+[2018.11.12-13.43.54:621][724]LogSlate: Took 0.048239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.12-13.47.34:353][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-13.48.25:356][954]LogSourceControl: Warning: '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/' is not part of a Git repository
+[2018.11.12-13.50.17:851][422]LogSlate: Window 'Source Control Login' being destroyed
+[2018.11.12-13.50.47:685][279]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.11.12-13.50.51:655][279]LogPackageName: Error: Illegal call to DoesPackageExist: '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/SuperTest.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.11.12-13.50.59:591][279]LogStats: FPlatformStackWalk::StackWalkAndDump -  7.901 s
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: 
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 822]
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: Illegal call to DoesPackageExist: '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/SuperTest.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: Stack: 
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ffb553471f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ffb55080c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ffb5509b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ffb5c054857 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ffb5ca481a5 UE4Editor-SourceControl.dll!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ffb5ca48339 UE4Editor-SourceControl.dll!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ffb43204e8d UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ffb431b804e UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ffb431b75df UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ffb431d1f71 UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ffb31dff32c UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ffb31e04e51 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ffb5ca4e737 UE4Editor-SourceControl.dll!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ffb40907aee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ffb411ff666 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ff63e6e5cbd UE4Editor.exe!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ff63e6f5b3c UE4Editor.exe!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ff63e6f5bba UE4Editor.exe!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ff63e703dac UE4Editor.exe!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ff63e705aaa UE4Editor.exe!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ffb89333034 KERNEL32.DLL!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: [Callstack] 0x00007ffb8bb71461 ntdll.dll!UnknownFunction []
+[2018.11.12-13.50.59:591][279]LogOutputDevice: Error: 
+[2018.11.12-13.50.59:614][279]LogStats:                SubmitErrorReport -  0.016 s
+[2018.11.12-13.51.36:732][279]LogStats:                    SendNewReport - 37.118 s
+[2018.11.12-13.51.36:732][279]LogStats:             FDebug::EnsureFailed - 45.076 s
+[2018.11.12-13.51.54:476][279]LogSlate: Window 'Submit Files' being destroyed
+[2018.11.12-13.51.54:596][279]SourceControl: Error: fatal: Unable to create 'C:/Users/Tal/Documents/Unreal Projects/SuperTest/.git/index.lock': File exists.
+[2018.11.12-13.51.54:596][279]SourceControl: Error: Another git process seems to be running in this repository, e.g.
+[2018.11.12-13.51.54:596][279]SourceControl: Error: an editor opened by 'git commit'. Please make sure all processes
+[2018.11.12-13.51.54:596][279]SourceControl: Error: are terminated then try again. If it still fails, a git process
+[2018.11.12-13.51.54:596][279]SourceControl: Error: may have crashed in this repository earlier:
+[2018.11.12-13.51.54:596][279]SourceControl: Error: remove the file manually to continue.
+[2018.11.12-13.51.54:818][279]SourceControl: Error: error: pathspec 'C:/Users/Tal/Documents/Unreal Projects/SuperTest/SuperTest.uproject' did not match any file(s) known to git.
+[2018.11.12-13.52.51:976][481]SourceControl: Error: warning: LF will be replaced by CRLF in .gitignore.
+[2018.11.12-13.52.51:976][481]SourceControl: Error: The file will have its original line endings in your working directory.
+[2018.11.12-13.58.49:816][906]LogActorFactory: Actor Factory created SM_Bld_Apartment_03
+[2018.11.12-13.58.50:168][912]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-13.58.52:668][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-13.58.54:683][165]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-13.58.54:940][180]LogActorFactory: Actor Factory created SM_Bld_OfficeOld_Small_Roof_01
+[2018.11.12-13.58.54:951][181]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-13.58.57:902][357]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-13.59.00:457][461]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-13.59.02:070][540]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-13.59.09:688][987]Cmd: DELETE
+[2018.11.12-13.59.09:688][987]Cmd: ACTOR DELETE
+[2018.11.12-13.59.09:959][987]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.11.12-13.59.10:010][987]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2018.11.12-13.59.11:171][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-13.59.20:278][573]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-13.59.22:414][701]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-13.59.23:772][782]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-13.59.25:366][876]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-13.59.28:113][989]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.12-13.59.28:921][  4]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-13.59.29:285][ 17]LogActorFactory: Actor Factory created SM_Env_Bridge_Support_01
+[2018.11.12-13.59.31:378][142]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-13.59.34:682][265]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-13.59.34:738][268]LogActorFactory: Actor Factory created SM_Prop_Aircon_01
+[2018.11.12-13.59.37:706][445]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-13.59.38:698][503]LogActorFactory: Actor Factory created SM_Prop_Billboard_Sign_02
+[2018.11.12-13.59.41:804][689]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-13.59.50:421][981]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-13.59.50:695][991]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-14.02.07:701][399]LogSavePackage: Moving '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Saved/testmap_Auto142C9CB51457E0466AC3AFF94EA198826.tmp' to '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Saved/Autosaves/Game/Maps/testmap_Auto1.umap'
+[2018.11.12-14.02.07:723][399]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/testmap' took 0.114
+[2018.11.12-14.02.07:723][399]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.114
+[2018.11.12-14.02.21:548][441]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-14.04.09:561][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.04.09:756][902]LogActorFactory: Actor Factory created SM_Prop_ParkBench_01
+[2018.11.12-14.04.12:771][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-14.04.15:861][253]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-14.07.43:376][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.07.47:953][742]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-14.07.56:405][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.07.58:535][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.08.00:820][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.08.03:014][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.08.07:780][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.08.13:279][908]Cmd: DELETE
+[2018.11.12-14.08.13:279][908]Cmd: ACTOR DELETE
+[2018.11.12-14.08.13:282][908]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.11.12-14.08.13:318][908]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.11.12-14.08.15:916][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.08.21:122][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.08.24:833][393]Cmd: DELETE
+[2018.11.12-14.08.24:833][393]Cmd: ACTOR DELETE
+[2018.11.12-14.08.24:835][393]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.11.12-14.08.24:869][393]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2018.11.12-14.08.27:431][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.08.32:946][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.08.42:714][217]Cmd: DELETE
+[2018.11.12-14.08.42:714][217]Cmd: ACTOR DELETE
+[2018.11.12-14.08.42:716][217]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.11.12-14.08.42:750][217]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.11.12-14.08.45:024][353]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Character_Male_Police_PhysicsAsset)
+[2018.11.12-14.12.27:399][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.12.45:573][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.12.48:250][282]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-14.12.52:607][540]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-14.13.23:464][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.13.26:805][448]LogSavePackage: Moving '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Saved/testmap_Auto26663E81F4457F4D570D21EB1176844F4.tmp' to '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Saved/Autosaves/Game/Maps/testmap_Auto2.umap'
+[2018.11.12-14.13.26:809][448]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/testmap' took 0.086
+[2018.11.12-14.13.26:809][448]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.086
+[2018.11.12-14.16.18:796][311]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Character_Male_Police_PhysicsAsset)
+[2018.11.12-14.16.19:561][353]Cmd: DELETE
+[2018.11.12-14.16.19:561][353]Cmd: ACTOR DELETE
+[2018.11.12-14.16.19:563][353]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.11.12-14.16.19:599][353]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2018.11.12-14.16.20:461][405]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Character_BusinessMan_Suit)
+[2018.11.12-14.16.21:196][445]Cmd: DELETE
+[2018.11.12-14.16.21:196][445]Cmd: ACTOR DELETE
+[2018.11.12-14.16.21:198][445]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.11.12-14.16.21:234][445]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.11.12-14.16.23:203][555]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.12-14.16.23:891][588]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Character_Female_Police_PhysicsAsset)
+[2018.11.12-14.16.24:672][628]Cmd: DELETE
+[2018.11.12-14.16.24:672][628]Cmd: ACTOR DELETE
+[2018.11.12-14.16.24:674][628]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.11.12-14.16.24:711][628]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.11.12-14.16.25:653][689]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Character_BusinessMan_Shirt)
+[2018.11.12-14.16.26:243][726]Cmd: DELETE
+[2018.11.12-14.16.26:243][726]Cmd: ACTOR DELETE
+[2018.11.12-14.16.26:246][726]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.11.12-14.16.26:280][726]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2018.11.12-14.16.27:320][796]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Character_BusinessWoman_PhysicsAsset)
+[2018.11.12-14.16.28:089][847]Cmd: DELETE
+[2018.11.12-14.16.28:089][847]Cmd: ACTOR DELETE
+[2018.11.12-14.16.28:092][847]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.11.12-14.16.28:126][847]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2018.11.12-14.16.30:099][996]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Character_Male_Jacket)
+[2018.11.12-14.16.30:865][ 46]Cmd: DELETE
+[2018.11.12-14.16.30:865][ 46]Cmd: ACTOR DELETE
+[2018.11.12-14.16.30:869][ 46]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.11.12-14.16.30:901][ 46]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.11.12-14.16.31:914][132]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.12-14.16.32:463][173]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Character_Female_Coat_PhysicsAsset)
+[2018.11.12-14.16.33:110][222]Cmd: DELETE
+[2018.11.12-14.16.33:110][222]Cmd: ACTOR DELETE
+[2018.11.12-14.16.33:113][222]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.11.12-14.16.33:146][222]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2018.11.12-14.16.34:659][338]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Character_Male_Hoodie)
+[2018.11.12-14.16.37:273][540]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Character_Female_Jacket)
+[2018.11.12-14.17.11:304][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.17.18:904][  9]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.12-14.17.24:890][441]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Character_Male_Hoodie)
+[2018.11.12-14.17.27:706][651]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-14.17.30:539][876]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (SK_Character_Male_Hoodie)
+[2018.11.12-14.17.30:599][876]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-14.18.23:755][327]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.12-14.18.23:802][327]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-14.18.58:288][ 66]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Character_Male_Hoodie)
+[2018.11.12-14.19.00:230][219]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Character_Female_Jacket)
+[2018.11.12-14.19.08:696][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.19.09:682][947]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Character_Male_Hoodie)
+[2018.11.12-14.19.11:213][ 71]Cmd: DELETE
+[2018.11.12-14.19.11:213][ 71]Cmd: ACTOR DELETE
+[2018.11.12-14.19.11:218][ 71]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.11.12-14.19.11:253][ 71]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.11.12-14.19.14:248][318]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Character_Female_Jacket)
+[2018.11.12-14.19.16:390][487]Cmd: DELETE
+[2018.11.12-14.19.16:390][487]Cmd: ACTOR DELETE
+[2018.11.12-14.19.16:392][487]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.11.12-14.19.16:453][487]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2018.11.12-14.19.32:248][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.19.56:253][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.20.08:543][749]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-14.20.09:611][838]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-14.20.31:710][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.20.49:092][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.20.53:757][787]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-14.22.39:722][541]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-14.22.42:618][843]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-14.22.52:127][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.23.03:798][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.23.58:820][450]LogSavePackage: Moving '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Saved/testmap_Auto37F117843410858B59FF546B557C852AB.tmp' to '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Saved/Autosaves/Game/Maps/testmap_Auto3.umap'
+[2018.11.12-14.23.58:825][450]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/testmap' took 0.088
+[2018.11.12-14.23.58:825][450]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.088
+[2018.11.12-14.23.58:829][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonCity/Meshes/Characters/SK_Character_Male_Hoodie] ([1] browsable assets)...
+[2018.11.12-14.23.58:901][450]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/PolygonCity/Meshes/Characters/SK_Character_Male_Hoodie.SK_Character_Male_Hoodie]
+[2018.11.12-14.23.58:901][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonCity/Meshes/Characters/SK_Character_Male_Hoodie]
+[2018.11.12-14.23.58:962][450]LogSavePackage: Moving '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Saved/SK_Character_Male_Hoodie_Auto33F923E764D0299674B080793190D7AE4.tmp' to '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Saved/Autosaves/Game/PolygonCity/Meshes/Characters/SK_Character_Male_Hoodie_Auto3.uasset'
+[2018.11.12-14.23.58:964][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/bp_tps_playerCharacter] ([1] browsable assets)...
+[2018.11.12-14.23.59:022][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/bp_tps_playerCharacter.bp_tps_playerCharacter]
+[2018.11.12-14.23.59:022][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/bp_tps_playerCharacter]
+[2018.11.12-14.23.59:077][450]LogSavePackage: Moving '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Saved/bp_tps_playerCharacter_Auto38C0BD1054A62177A7DF28C9F4CAD96FE.tmp' to '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Saved/Autosaves/Game/Blueprints/Character/bp_tps_playerCharacter_Auto3.uasset'
+[2018.11.12-14.23.59:078][450]LogFileHelpers: Auto-saving content packages took 0.251
+[2018.11.12-14.24.17:767][507]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-14.24.22:787][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.29.10:087][363]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-14.31.21:421][783]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-14.33.59:333][189]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/testmap' took 0.049
+[2018.11.12-14.33.59:335][189]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/bp_tps_playerCharacter] ([1] browsable assets)...
+[2018.11.12-14.33.59:411][189]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/bp_tps_playerCharacter.bp_tps_playerCharacter]
+[2018.11.12-14.33.59:411][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/bp_tps_playerCharacter]
+[2018.11.12-14.33.59:456][189]LogSavePackage: Moving '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Saved/bp_tps_playerCharacter_Auto4DAA51DB547A2A38538FB77A5DF000C7F.tmp' to '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Saved/Autosaves/Game/Blueprints/Character/bp_tps_playerCharacter_Auto4.uasset'
+[2018.11.12-14.33.59:458][189]LogFileHelpers: Auto-saving content packages took 0.123
+[2018.11.12-14.37.32:049][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.37.38:404][896]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-14.38.16:445][846]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/GameFiles/bp_tps_gamemode.bp_tps_gamemode
+[2018.11.12-14.38.22:914][491]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.12-14.38.36:021][981]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-14.38.40:606][529]BlueprintLog: New page: Compile bp_tps_gamemode
+[2018.11.12-14.38.51:644][146]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-14.38.51:693][146]LogSavePackage: Moving '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Saved/bp_tps_gamemodeE0210EEC4E368ADFEB3ECB8862886BA1.tmp' to '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Content/Blueprints/GameFiles/bp_tps_gamemode.uasset'
+[2018.11.12-14.38.51:766][151]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-14.41.04:128][328]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.11.12-14.41.25:839][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.12-14.41.34:048][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-14.41.34:135][731]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.12-14.41.34:780][731]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.12-14.41.34:785][731]LogPlayLevel: [PlayLevel] Compiling bp_tps_playerCharacter before play...
+[2018.11.12-14.41.35:131][731]LogPlayLevel: PlayLevel: Blueprint regeneration took 351 ms (1 blueprints)
+[2018.11.12-14.41.35:415][731]PIE: New page: PIE session: testmap (Nov 12, 2018, 6:41:35 PM)
+[2018.11.12-14.41.35:434][731]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_testmap
+[2018.11.12-14.41.35:475][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040712s)
+[2018.11.12-14.41.35:476][731]LogAIModule: Creating AISystem for world testmap
+[2018.11.12-14.41.35:486][731]LogPlayLevel: PIE: World Init took: (0.010258s)
+[2018.11.12-14.41.35:504][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testmap.testmap to /Game/Maps/UEDPIE_0_testmap.testmap (0.069439s)
+[2018.11.12-14.41.35:606][731]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.12-14.41.35:652][731]LogInit: FAudioDevice initialized.
+[2018.11.12-14.41.35:762][731]LogLoad: Game class is 'bp_tps_gamemode_C'
+[2018.11.12-14.41.35:773][731]LogWorld: Bringing World /Game/Maps/UEDPIE_0_testmap.testmap up for play (max tick rate 0) at 2018.11.12-16.41.35
+[2018.11.12-14.41.35:780][731]LogWorld: Bringing up level for play took: 0.008203
+[2018.11.12-14.41.36:742][731]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 10 classes and 0 folders.
+[2018.11.12-14.41.37:099][731]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_testmap 1.836
+[2018.11.12-14.41.37:718][732]SourceControl: Error: fatal: Not a git repository (or any of the parent directories): .git
+[2018.11.12-14.41.45:090][427]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-14.41.50:628][985]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-14.42.02:859][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-14.42.02:931][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.12-14.42.03:001][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.12-14.42.03:038][195]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.11.12-14.44.28:810][660]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/testmap' took 0.060
+[2018.11.12-14.44.28:813][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/bp_tps_playerCharacter] ([1] browsable assets)...
+[2018.11.12-14.44.28:929][660]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/bp_tps_playerCharacter.bp_tps_playerCharacter]
+[2018.11.12-14.44.28:929][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/bp_tps_playerCharacter]
+[2018.11.12-14.44.29:107][660]LogSavePackage: Moving '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Saved/bp_tps_playerCharacter_Auto50D70BC554C87053D0C7C468882C6A7E4.tmp' to '../../../../../../Users/Tal/Documents/Unreal Projects/SuperTest/Saved/Autosaves/Game/Blueprints/Character/bp_tps_playerCharacter_Auto5.uasset'
+[2018.11.12-14.44.29:140][660]LogFileHelpers: Auto-saving content packages took 0.329
